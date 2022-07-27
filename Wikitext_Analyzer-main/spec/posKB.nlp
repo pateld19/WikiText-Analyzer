@@ -1,0 +1,21 @@
+###############################################
+# FILE: pos
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-7-26 10:17:51
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _language _headerZone _etymologyZone _headerZone 
+
+@POST
+if (IsPOS(N("header", 1))) {
+	S("con") = makeconcept(X("pos",4), N("header", 1));
+}
+
+"pos.txt" << N("header", 1) << "\n";
+
+@RULES
+_xNIL <-
+	_headerZone	### (1)
+	@@

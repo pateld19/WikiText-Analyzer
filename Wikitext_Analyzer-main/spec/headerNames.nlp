@@ -1,0 +1,20 @@
+###############################################
+# FILE: headerNames
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-20 9:43:6
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+S("etymology") = num(N("$text", 2));
+X("header") = "etymology";
+single();
+
+@RULES
+_etymology <-
+	etymology	### (1)
+	_xNUM		### (2)
+	@@

@@ -1,0 +1,21 @@
+###############################################
+# FILE: pronunciations
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-19 10:39:42
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _language _headerZone
+
+@PRE
+<1,1> vareq("header", "Pronunciation");
+
+@POST
+S("con") = makeconcept(X("con",2),"pronunciation");
+single();
+
+@RULES
+_pronunciation <-
+	_headerZone	### (1)
+	@@

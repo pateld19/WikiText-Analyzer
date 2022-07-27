@@ -1,0 +1,13 @@
+###############################################
+# FILE: kbOut
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-19 10:35:42
+# MODIFIED:
+###############################################
+
+@CODE
+
+DisplayKB(G("words"), 1);
+
+@@CODE

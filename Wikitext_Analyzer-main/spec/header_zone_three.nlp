@@ -1,0 +1,20 @@
+###############################################
+# FILE: header_zone
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-18 9:27:24
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+S("header") = N("header",1);
+S("count") = 3;
+single();
+
+@RULES
+_headerZone <-
+	_headerThree																	### (1)
+	_xWILD [plus fails=(_headerThree _headerTwo _xEND)]	### (2)
+	@@

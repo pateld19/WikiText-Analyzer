@@ -1,0 +1,14 @@
+###############################################
+# FILE: pronunciation
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-19 10:46:27
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@RULES
+_xNIL <-
+	_xNIL	### (1)
+	@@

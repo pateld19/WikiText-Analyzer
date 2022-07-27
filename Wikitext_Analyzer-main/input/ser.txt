@@ -1,0 +1,492 @@
+{{desambiguación|Ser|SER|ṣer|şer|şerr|şêr|}}
+
+== {{lengua|es}} ==
+{{pron-graf|fone=seɾ
+|p=sor|p2=sed|p3=ver}}
+
+=== Etimología ===
+{{etimología|osp|seer|ser}}, y este del latín {{l+|la|sedeo|sedēre}} y el latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+La forma verbal {{l+|es|eres}} viene del castellano antiguo {{l+|es|eres|glosa=eres}}, del latín {{l+|es|eris|glosa=serás}}. En el latín vulgar de la península ibérica {{l+|la|es|glosa=eres}} y {{l+|la|est|glosa=es}} se volvieron {{l|es|homófono}}s, así comenzó a usarse para evitar confusiones la forma de futuro {{l+|es|eris|glosa=serás}}, que ya en ese momento dejaba de ser usada, como forma de presente.
+
+=== {{verbo intransitivo|es}} ===
+;1: Tener algo una determinada [[naturaleza]] o [[cualidad]] [[estable]].
+:*'''Ejemplo''': El cielo ''es'' de color azul. [http://www.peques.com.mx/el_cielo_es_azul_porque.htm ]
+;2: {{plm|haber}} una cosa o tener lugar un acontecimiento en un determinado sitio y momento.
+;3: {{impropia|Se usa para formar la [[voz pasiva]] de todos los verbos, junto con el participio correspondiente de los mismos}}.
+;4: {{impropia|Seguido de la descripción de una [[acción]], [[consistir]] en ella}}.
+:*'''Ejemplo''': Su encanto ''es'' poder disfrutar de unas vistas excepcionales de todo Londres [http://www.losviajeros.com/index.php?name=blogs&mode=entry&id=448 ]
+;5: {{impropia|Seguido de la [[preposición]] [[de]] y algunos [[infinitivos]], poderse [[prever]] fácilmente la acción que se expresa}}.
+:*'''Ejemplo''': ''Es'' de suponer que no pueden enviar regalos o ropa porque los impuestos de envio son muy caros. [http://www.tupatrocinio.com/brel.cfm/suponer.html ]
+;6: Tener algo un [[valor]] o [[precio]].
+:*'''Ejemplo''': ¿A cuánto ''es'' lo habitual fijar las tarifas por unidad para los archivos de alta resolución? [http://www.ojodigital.com/foro/general/200008-precios-normales-para-fotos-alta-resolucion.html ]
+;7: Muestra la [[hora]] o [[fecha]]. [[Categoría:ES:Tiempo]]
+:*'''Ejemplo''': ''Es'' la una de la mañana con 26 minutos [http://www.edy.com.mx/2008/10/es-la-una-no-las-dos-de-la-manana/ ]
+;8 {{matemáticas}}: {{impropia|Se usa para dar el [[resultado]] de una [[operación]] [[aritmética]]}}.
+:*'''Ejemplo''': Dos por dos ''son'' cuatro [http://mx.answers.yahoo.com/question/index?qid=20070120201101AATWMiV ]
+;9: {{plm|servir}}, [[aprovechar]] o [[conducir]] para alguna cosa.<ref name="dra">"[http://books.google.de/books?id=5nBXAAAAYAAJ&pg=PA800&hl=es&output=text ser]" en Real Academia Española (1842) ''[http://books.google.de/books?id=5nBXAAAAYAAJ&printsec=frontcover Diccionario de la lengua castellana]''. París: Casa de Héctor Bosange.</ref>
+:*'''Ejemplo''': Pedro no ''es'' para esto.
+;10: {{plm|estar}} en algún lugar o situación.<ref name="dra" />
+;11: {{plm|pertenecer}} a la posesión o dominio de alguno.<ref name="dra" />
+:*'''Ejemplo''': Este jardín ''es'' del rey. ̣
+;12: {{plm|pertenecer}} o [[tocar]].<ref name="dra" />
+:*'''Ejemplos''': Este proceder no ''es'' de hombre de bien. No ''es'' mío sentenciar estas discordias.
+;13: Pertenecer o tocar hablando de alguna comunidad o número, o de calidad, y también se junta con la preposición de.<ref name="dra" />
+:*'''Ejemplo''': ''Es'' del consejo.
+;14: Tener principio, origen o naturaleza, hablando de lugares o países.<ref name="dra" />
+:*'''Ejemplo''': Antonio ''es'' de Madrid.
+;15: {{impropia|En las proposiciones significa la relación que tiene el predicado con el sujeto}}.<ref name="dra" />
+;16: {{impropia|Sirve para afirmar o negar en lo que se dice o pretende}}.<ref name="dra" />
+:*'''Ejemplo''': Esto ''es''.
+;17: {{impropia|Junto con nombres que significan empleo, ocupación o ministerio vale ejercitarlos u ocuparse en ellos}}.<ref name="dra" />
+:*'''Ejemplos''': ''Es'' capitán, ''es'' gobernador, etc.
+;18: {{impropia|Junto con nombres o participios de otros verbos vale tener las calidades o propiedades de lo que dichos verbos significan}}.<ref name="dra" />
+;19: {{plm|haber}}, [[existir]].<ref name="dra" />
+{{uso|anticuado}}.
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.reg-cons}}
+
+;20: Aquello que tiene [[existencia]] propia independientemente del medio.
+;21: {{plm|ente}} que está [[vivo]].
+{{hipónimo|ser vivo|ser humano}}.
+;22: Estado de existencia, consciencia o vida.
+;23: Naturaleza o esencia que define a una entidad como tal.
+;24: {{plm|valor}}, [[precio]], [[estimación]] de las cosas.<ref name="dra" />
+:*'''Ejemplo:''' En esta palabra está todo el ''ser'' de la proposición.
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba|<center>Locuciones y expresiones con '''''ser'''''</center>}}
+* [[a no ser que]]: Se usa para introducir una posible excepción o contratiempo.
+* [[así es]]: Se usa para afirmar o asentir.
+* [[así sea]]: Se usa para expresar el deseo de que se cumpla lo que otro ha dicho. También equivale a ''[[aunque]]''.
+* [[como sea]]: De cualquier modo
+* [[como dos y dos son cuatro]]: Se dice para garantizar que lo que se dice se va a cumplir o para decir que algo es obvio.
+* [[cómo es eso]]: Se usa para reprochar a alguien su atrevimiento o para pedirle explicación por algo que haya hecho considerado como indeseable, generalmente cuando se enteran por medio de terceros.
+* [[cómo ha de ser]]: Se usa para mostrar acuerdo o resignación.
+* [[cómo será]]: Usado con la conjunción ''que'' denota una manera de darle mayor dimensión a un hecho concreto.
+* [[¿cómo va a ser?]]: Denota sorpresa (generalmente desagradable) o contrariedad.
+* [[érase que se era]]: Fórmula para empezar un cuento.
+* [[en ser]]: Sin haberse gastado, consumido o deshecho.<ref name="dra" />
+* [[es a saber]] o [[esto es]]: Se usa para indicar que se va a explicar con más claridad algo dicho previamente.<ref>DRAE 1842</ref>
+* [[es lo que es]]: Manera de decirle a una persona que se apegue a la realidad cuando relata cosas fantasiosas o dice cosas no acertadas (Venezuela). ''—Mamá, voy a salir con mi novio. —Niña, preocúpate por estudiar es lo que es.''
+* [[es más]]: Manera de reforzar un argumento dándole mayor magnitud.
+* [[¡eso es!]]: Expresión para asentir o aprobar una acción positiva.
+* [[es quien es]]: expr. con que se denota que alguno ha correspondido en alguna acción a lo que se debe a su sangre o empleo.<ref name="dra" />
+* [[lo que sea]]: Cualquier cosa.
+* [[lo que fuere, sonará]] o [[lo que sea, sonará]]: Se usa para decir que a su debido momento se harán visibles las consecuencias de algo.
+* [[más eres tú]]: Se usa para reprochar a alguien que nos critica que él tenga el defecto en mayor grado. También una expresión para referirse a una discusión con insultos.
+* [[no sea que...]]: Se usa para indicar precaución.
+* [[no ser lo que era]]: Haber empeorado.
+* [[no ser ni la sombra de lo que fue]]: Haber cambiado algo o alguien pero para peor.
+* [[no ser para menos]]: Se usa para decir que algo está justificado. ''Le despidieron, pero después de que le hubieran pillado robando no era para menos''. También se usa para denotar la relevancia de algo concreto.
+* [[no ser para tanto]]: Tener un asunto poca o ninguna importancia.
+* [[no ser rana]]
+* [[¿no será que...?]]: Manera de desmentir a alguien cuando la otra persona conoce la verdad. También se usa para elucubrar algo cuando no se conoce la causa hasta que se confirme aquella.
+* [[no somos nadie]]: Se usa para hacer referencia a la fragilidad del ser humano.
+* [[o sea]]: Se usa para sacar una conclusión o explicar mejor algo. También se usa como muletilla.
+* [[o somos, o no somos]]
+* [[poder ser]]: Ser posible
+* [[por si fuera poco]]: Para indicar una nueva circunstancia adversa que se suma a otras anteriores.
+* [[puede ser]]: Expresión para responder sin confirmar ni negar lo que se nos pregunta.
+* [[sea lo que fuere]], [[sea lo que sea]] o [[sea como quiera]]: expresa indiferencia respecto a una posibilidad, o indica que se va a pasar al tema principal después de una observación parentética.
+{{rel-centro}}
+* [[sea o no sea]]: Se usa para indicar que, con independencia de que cierta cosa exista o no, ahora se va a tratar del asunto principal.
+* [[sea quien sea]]: Dando igual si es una persona u otra, rica o pobre, jefe o empleado, etc.
+* [[ser algo]]: Tener alguna importancia. ''Por lo menos hemos vuelto a quedar que ya es algo.''
+* [[ser de]] alguno: Seguir su partido u opinión, o mantener su amistad.<ref name="dra" />
+* [[ser con]] alguno: Opinar del mismo modo que él.<ref name="dra" /> También se usa para denotar que un asunto le compete a alguien ''no te hagas que esto es contigo''.
+* [[ser de...]] (más sustantivo): Denota que una acción es propia de quien se alude. ''Niña, eso de andar por la calle semidesnuda es de prostitutas''. 
+* [[ser del mismo paño]]
+* [[ser de un...]] (más adjetivo): Tener la cualidad que señala el adjetivo. ''Eres de un tonto que tira de espaldas.''
+* [[ser el colmo]]: Llegar una cosa al extremo de lo inimaginable.
+* [[ser el mismo perro con diferente collar]]: cambiar sólo en apariencia mas en esencia seguir siendo lo mismo.
+* [[ser humano]]: Individuo de la [[especie]] humana (''Homo sapiens'')
+* [[ser lo que bota la ola]]
+* [[ser muy otro]]: Haber cambiado mucho.
+* [[ser para menos]]
+* [[ser quien es]]: Ser noble o importante y comportarse como tal.
+* [[ser de lo que no hay]]: No haber otro como él. Se usa principalmente en sentido peyorativo.
+* [[ser de ver]] o [[ser para ver]]: Ser notable por alguna circunstancia extraña o llamativa.
+* [[ser para en uno]] (dos personas): Ser muy parecidos en opinión y costumbres, lo que hace que se entiendan bien. Se usa especialmente para matrimonios.
+* [[ser un sol]]
+* [[si no es por]] o [[si no hubiera sido por]]: Se usa para indicar que una persona ha sido clave en el éxito o fracaso de un empeño.
+* [[si yo fuera]] fulano: Se usa para indicar lo que uno haría de encontrarse en la misma situación de otro al que se alude.
+* [[soy como VM]]: expr. ant. que se usa para prevenir a alguno que espere un poco, para tratar de su dependencia, como disculpándose con la que está tratando con otro.<ref name="dra" />
+* [[soy contigo]] o [[soy con usted]]: Para expresar que espere un poco antes de ser atendido.
+* [[soy mío]]: Tener libertad para hacer algo.
+* [[todo lo que sea]]:
+**1: Se usa para indicar que lo que se dice a continuación es inútil. ''Todo lo que sea estudiar 10 minutos antes del examen es perder el tiempo''.
+**2: Cualquier cosa. ''Haré todo lo que sea por ganar.''
+* [[un es, no es]] o [[un sí es, no es]]: Para indicar pequeñez o escasez.
+{{rel-abajo}}
+
+=== Conjugación ===
+{{es.v.conj.ser}}
+
+=== Información adicional ===
+{{anagrama|res}}.
+
+=== Véase también ===
+* [[estar]]
+* [[existir]]
+* [[convertirse]]
+{{wikipedia}}
+{{wikipedia|verbo copulativo}}
+{{wikipedia|voz pasiva}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba|verbo}}
+{{t+|ain|アン|,|アㇴ|,|オカィ|,|ネ}}
+{{t+|de|sein}}
+{{t+|ar|كان|tr|kāna}}
+{{t+|az|olmaq}}
+{{t+|be|быць|tr|byts'}}
+{{t+|bg|съм|tr|sǎm|,|бъда|tr|bǎda}}.
+{{t+|ca|esser|,|ser}}
+{{t+|cs|být}}
+{{t+|hr|biti}}
+{{t+|da|være}}
+{{t+|sk|byť}}
+{{t+|sl|biti}}
+{{t+|eo|esti}}
+{{t+|eu|izan}}
+{{t+|fr|être}}
+{{t+|gl|ser}}
+{{t+|el|είμαι|tr|íme}}
+{{t+|hi|होना|tr|honā}}
+{{t+|en|nl|to|be}}
+{{t+|id|adalah}}
+{{t+|ia|esser}}
+{{t+|is|vera}}
+{{trad-centro}}
+{{t+|it|essere|,|èssere}}
+{{t+|ja|だ|tr|da|,|です|tr|desu|nota|forma cortés}}
+{{t+|lv|būt}}
+{{t+|ln|kozala}}
+{{t+|lt|būti}}
+{{t+|zh|是|tr|shì|nota|entre nombres}}
+{{t+|mn|байх}}
+{{t+|nl|zijn}}
+{{t+|no|være}}
+{{t+|mn|7|болох}}
+{{t+|pl|być}}
+{{t+|pt|ser}}
+{{t+|quz|kay}}
+{{t+|ro|fi}}
+{{t+|ru|быть|tr|byt'}}
+{{t+|sa|भवति|,|अस्ति}}
+{{t+|sr|бити|,|biti}}
+{{t+|sw|kuwa}}
+**''(es)'' ni, ''(no es)'' si
+{{t+|th|เป็น|tr|pen}}
+*{{tl}}: --, ''(soy X)'' X ako
+{{t+|tr|olmak}}
+**''(soy X)'' Xm / Xim / Xüm / Xım / Xum
+{{t+|uk|бути|tr|buty}}
+{{trad-abajo}}
+{{trad-arriba|sustantivo}}
+{{t+|de|Sein|n|,|Wesen|n|,|Geschöpf|n}}
+{{t+|ca|ésser|m}}
+{{t+|cs|bytí}}
+{{t+|fr|être}}
+{{t+|en|being}}
+{{trad-centro}}
+{{t+|el|πλάσμα|tr|plásma|n}}
+{{t+|no|vesen}}
+{{t+|pt|ser}}
+{{t+|ru|20|существо|,|создание}}
+{{trad-abajo}}
+
+== {{lengua|an}} ==
+{{pron-graf|leng=an}}
+
+=== Etimología ===
+{{etimología|leng=an|roa-oan|seer|ser}}, y este del latín {{l+|la|sedeo|sedēre}} y el latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo intransitivo|an}} ===
+;1: {{plm}}.
+
+== {{lengua|ast}} ==
+{{pron-graf|leng=ast}}
+
+=== Etimología ===
+{{etimología|leng=ast|roa-ole|seer|ser}}, y este del latín {{l+|la|sedeo|sedēre}} y el latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo intransitivo|ast}} ===
+;1: {{plm}}.
+
+=== {{sustantivo masculino|ast}} ===
+{{inflect.ast.sust.reg-cons}}
+
+;2: {{plm}}.
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba}}
+*{{l+|lad|ser humanu}}
+{{rel-abajo}}
+
+=== Conjugación ===
+{{ast.v.conj|ser|siendo|sío|so<br>soi|yes|ye|somos|sois|son|yera|yeres|yera|yéramos<br>yéremos|yerais<br>yereis|yeren|fui|fosti<br>fuesti<br>fuisti|fo<br>foi|fomos<br>fuemos<br>fuimos|fostis<br>fuestis<br>fuistis|foron<br>fueron|seré|serás|será|seremos|seréis|serán|sería|seríes|sería|seríamos<br>seríemos|seríais<br>seríeis|seríen|seya<br>sía|seyas<br>sías|seya<br>sía|séyamos<br>síamos|seyáis<br>síais|seyan<br>sían|fora<br>fore<br>fuera<br>fuere|foras<br>fores<br>fueras<br>fueres|fora<br>fore<br>fuera<br>fuere|fóramos<br>fóremos<br>fuéramos<br>fuéremos|forais<br>foreis<br>fuerais<br>fuereis|foran<br>foren<br>fueran<br>fueren|sé|sei}}
+
+== {{lengua|ca}} ==
+{{pron-graf|leng=ca
+|v=ésser}}
+
+=== Etimología ===
+{{etimología|leng=ca|oca|seer|ser}}, y este del latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo intransitivo|ca}} ===
+;1: {{plm}}.
+
+;2: {{plm|estar}} {{l|es|ubicado}}.
+
+=== {{verbo transitivo|ca}} ===
+;3: {{plm|ser}}.
+
+;4: {{plm|tener}} una {{l|es|característica}}.
+
+=== {{verbo auxiliar|ca}} ===
+;5: {{plm|ser}}. ({{impropia|Activa el modo pasivo, se usa con el participio pasado.}})
+
+=== Conjugación ===
+{{ca.v.conj|ser|estat / sigut|sent|estat<br>sigut<br>set|sóc<br>só|ets|és|som|sou|són|era|eres|era|érem|éreu|eren|fui|fores|fou|fórem|fóreu|foren|seré|seràs|serà|serem|sereu|seran|seria|series|seria|seríem|seríeu|serien|sigui<br>siga|siguis<br>sigues|sigui<br>siga|siguem<br>sigam|sigueu<br>sigau|siguin<br>siguen|fos|fossis<br>fosses|fos|fóssim<br>fóssem|fóssiu<br>fósseu|fossin|fóra|fores|fóra|fórem|fóreu|foren|seré|seràs|serà|serem|sereu|seran|sigues|sigui<br>siga|siguem<br>sigam|sigueu<br>sigau|siguin<br>siguen}}
+
+== {{lengua|gl}} ==
+{{pron-graf|leng=gl}}
+
+=== Etimología ===
+{{etimología|leng=gl|roa-opt|seer|ser}}, y este del latín {{l+|la|sedeo|sedēre}} y el latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo intransitivo|gl}} ===
+;1: {{plm}}.
+
+=== {{sustantivo masculino|gl}} ===
+{{inflect.gl.sust.reg-cons}}
+
+;2: {{plm}}.
+
+=== Conjugación ===
+{{inflect.gl.v|son|es|é|somos|sodes|son|era|eras|era|eramos|erades|eran|fun|fuches|foi|fomos|fostes|foron|fora|foras|fora|foramos|forades|foran|serei|serás|será|seremos|seredes|serán|sería|serías|sería|seriamos|seriades|serían|sexa|sexas|sexa|sexamos|sexades|sexan|fose|foses|fose|fósemos|fósedes|fosen|for|fores|for|formos|fordes|foren|sé|sede|ser|seres|ser|sermos|serdes|seren|ser|sendo|sido}}
+
+== {{lengua|hu}} ==
+{{pron-graf|leng=hu}}
+
+=== Etimología ===
+{{etimología|leng=hu}}
+
+=== {{sustantivo|hu}} ===
+;1 {{bebida|leng=hu}}: {{plm|cerveza}}.
+
+=== Véase también ===
+{{w|leng=hu}}
+
+== {{lengua|en}} ==
+{{pron-graf|leng=en}}
+
+=== Etimología ===
+{{etimología|leng=en}}.
+
+=== {{abreviatura|en}} ===
+;1: ''Abreviatura de {{l+|en|serial}}'': en [[serie]].
+
+== {{lengua|it}} ==
+{{pron-graf|leng=it}}
+
+=== Etimología ===
+{{etimología|leng=it|acort|messer}}.
+
+=== {{sustantivo masculino|it}} ===
+{{inflect.it.sust.invariante}}
+
+;1: {{plm|señor}} (título).
+{{uso|leng=it|anticuado|formal}}.
+
+== {{lengua|lad}} ==
+{{pron-graf|leng=lad}}
+
+=== Etimología ===
+{{etimología|leng=lad|osp|seer|ser}}, y este del latín {{l+|la|sedeo|sedēre}} y el latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo intransitivo|lad}} ===
+;1: {{plm}}.
+
+=== Conjugación ===
+{{lad.v.conj.ser|}}
+
+== {{lengua|mwl}} ==
+{{pron-graf|leng=mwl}}
+
+=== Etimología ===
+{{etimología|leng=mwl|latín vulgar|*essere|ser}}, y este del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo intransitivo|mwl}} ===
+;1: {{plm}}.
+
+=== {{sustantivo masculino|mwl}} ===
+{{inflect.mwl.sust.reg-cons}}
+
+;2: {{plm}}.
+
+== {{lengua|oc}} ==
+{{pron-graf|leng=oc}}
+
+=== Etimología ===
+{{etimología|leng=oc}}.
+
+=== {{sustantivo|oc}} ===
+;1: {{plm|sierpe}}.
+
+== {{lengua|pl}} ==
+{{pron-graf|leng=pl}}
+
+=== Etimología ===
+{{etimología|leng=pl}}
+
+=== {{sustantivo masculino|pl}} ===
+{{inflect.pl.sust|{{l|pl|ser}}|{{l|pl|sery}}|{{l|pl|sera}}|{{l|pl|serów}}|{{l|pl|serowi}}|{{l|pl|serom}}|{{l|pl|ser}}|{{l|pl|sery}}|{{l|pl|serem}}|{{l|pl|serami}}|{{l|pl|serze}}|{{l|pl|serach}}|{{l|pl|serze}}|{{l|pl|sery}}}}
+
+;1 {{alimentos|leng=pl}}: {{plm|queso}}.
+
+=== Véase también ===
+{{W|idioma=pl}}.
+
+== {{lengua|pt}} ==
+{{pron-graf|leng=pt
+|pron=Brasil|fone=ˈse(ʁ)
+|2pron=Portugal|2fone=ˈseɾ
+|h=cê|hnota=Brasil}}
+
+=== Etimología ===
+{{etimología|leng=pt|roa-opt|seer|ser}}, y este del latín {{l+|la|sedeo|sedēre}} y el latín vulgar {{l+|la|*essere|glosa=ser}}, del latín {{l+|la|sum|esse|glosa=ser}}.
+
+=== {{verbo|pt|copulativo}} ===
+;1: {{plm}} (tener una calidad esencial).
+{{ejemplo|Ela está bonita, mas não '''é''' bonita.}}
+::: Ella está guapa, mas no es guapa.
+
+=== {{verbo transitivo|pt}} ===
+;2: Ser [un ejemplo o tipo de]; {{l|es|igualar}}.
+{{ejemplo|Pessoas '''são''' mamíferos.}}
+::: Personas son mamíferos.
+:: A soma de um e dois '''é''' três.
+::: La suma de uno y dos iguala tres.
+
+=== {{verbo auxiliar|pt}} ===
+;3: {{plm|ser}}. ({{impropia|Activa el modo pasivo, se usa con el participio pasado.}})
+{{ejemplo|O carro '''foi''' vendido pelo seu antigo dono.}}
+::: El auto fue vendido por su antiguo propietario.
+
+;4 Con preposición ablativa: Tener el {{l|es|propósito}}.
+{{uso|leng=pt|utct}}.
+{{sinónimo|leng=pt|servir}}.
+{{ejemplo|Esse tipo de faca '''é''' para cortar tomates.}}
+::: Este tipo de cuchillo es para cortar tomates.
+
+;5 Con preposición ablativa: {{plm|deber}}, {{l|es|haber de}}, {{l|es|se supone que}} o {{l|es|tener que}}.
+{{sinónimo|leng=pt|dever}}.
+{{ejemplo|Não sei porque está demorando, já '''era''' para o filme ter começado.}}
+::: No se porque está llevando tiempo tanto, ya debía haber comenzado la película.
+:: É para comermos toda a carne.
+::: Debemos comer toda la carne.
+
+=== {{verbo impersonal|pt}} ===
+;6: {{plm|ser}} (un punto temporal).
+{{ejemplo|Que horas '''são'''?}}
+::: ¿Qué hora es?
+:: '''São''' cinco horas
+::: Son las cinco.
+
+;7: {{plm|deber}}, {{l|es|haber de}}, {{l|es|se supone que}} o {{l|es|tener que}}.
+{{sinónimo|leng=pt|dever}}.
+
+=== {{verbo transitivo|pt}} ===
+;8 Con preposición locativa: {{plm|estar}} {{l|es|ubicado}}.
+{{sinónimo|leng=pt|ficar|localizar}}.
+{{ejemplo|Minha casa '''é''' num bairro pobre.}}
+::: Mi casa está en un barrio pobre.
+
+;9 Con preposición ablativa: {{plm|originar}}.
+{{sinónimo|leng=pt|vir}}.
+{{ejemplo|Esses equipamentos '''são''' da Alemanha.}}
+::: Estas equipamientos son de Alimaña.
+:: Nenhum de nós '''é''' dum país estrangeiro.
+::: Ningún de nos es de un país extraño.
+
+;10 Con preposición genitiva: {{plm|pertenecer}} a.
+{{sinónimo|leng=pt|pertencer}}.
+{{ejemplo|Essa casa '''é''' do prefeito. Não mexa em nada que não '''for''' seu.}}
+::: Esta casa es del regente. No toques nada que no sea el suyo.
+
+;11: {{plm|costar}}.
+{{sinónimo|leng=pt|custar|valer}}.
+{{ejemplo|Duas maçãs '''são''' dez centavos.}}
+::: Dos manzanas cuestan diez centavos.
+
+;12 Con preposición acusativa: Ya sea {{l|es|apoyar}} u {{l|es|oponer}}.
+{{ejemplo|Alguns '''foram''' contra a guerra, mas a maioria '''foi''' a favor.}}
+::: Algunos fueron contra el conflicto armado, pero la mayoría fueron a favor (de él).
+
+=== {{verbo intransitivo|pt}} ===
+;13: {{plm|acontecer}} u {{l|es|ocurrir}}.
+{{sinónimo|leng=pt|acontecer|haver|ocorrer|produzir|realizar|sobrevir|suceder|ter}}.
+{{ejemplo|O que '''será''', '''será'''.}}
+::: Lo que será, será.
+:: Quando '''é''' seu aniversário?
+::: ¿Cuándo es su cumpleaños?
+
+=== {{sustantivo masculino|pt}} ===
+{{inflect.pt.sust.reg-cons}}
+
+;14: {{plm}}.
+{{sinónimo|leng=pt|criatura|ente}}.
+
+{{clear}}
+
+=== Locuciones ===
+{{rel-arriba}}
+*{{l+|pt|ser humano}}
+{{rel-centro}}
+*{{l+|pt|ser vivo}}
+{{rel-abajo}}
+
+=== Conjugación ===
+{{pt.v.conj.ser}}
+
+== {{lengua|rm}} ==
+{{pron-graf|leng=rm}}
+
+=== {{verbo intransitivo|rm}} ===
+;1: {{variante|leng=rm|seser}}.
+{{ámbito|leng=rm|sursilvano}}.
+
+== {{lengua|ro}} ==
+{{pron-graf|ser|leng=ro}}
+
+=== Etimología ===
+{{etimología|leng=ro|fr|sérum|suero}}.<ref name="dexonline">{{dexonline}}</ref>
+
+=== {{sustantivo neutro|ro}} ===
+{{inflect.ro.sust.n|u=s}}
+
+;1: {{plm|suero}}.
+
+== {{lengua|tr}} ==
+{{pron-graf|leng=tr|fono=ˈseɾ}}
+
+=== Etimología ===
+{{etimología|leng=tr}}
+
+=== {{sustantivo|tr}} ===
+;1 {{anatomía|leng=tr}}: {{plm|cabeza}}.
+{{uso|leng=tr|Arcaico}}.
+{{sinónimos|leng=tr|baş|kafa}}.
+
+== Referencias y notas ==
+<references />

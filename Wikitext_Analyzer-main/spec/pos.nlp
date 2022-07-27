@@ -1,0 +1,17 @@
+###############################################
+# FILE: pos
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-7-26 10:56:6
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+N("pos") = 1;
+
+@RULES
+_xNIL <-
+	_xWILD [one match=(noun verb interjection adjective)]	### (1)
+	@@

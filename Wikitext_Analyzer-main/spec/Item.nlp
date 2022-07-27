@@ -1,0 +1,16 @@
+###############################################
+# FILE: Item
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-18 9:15:36
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_item <-
+	_xSTART					### (1)
+	_xWILD [plus match=(\# \*)]	### (2)
+	_xWILD [fail=(_xEND)]	### (3)
+	@@

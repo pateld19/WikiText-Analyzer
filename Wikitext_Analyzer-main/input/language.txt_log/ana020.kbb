@@ -1,0 +1,24 @@
+words
+  language
+    English: 
+      language=[English]
+      etymology=[2]
+      pronunciation
+      etymology1
+        pos
+          Noun
+          Verb
+          Interjection
+      etymology2
+        pos
+          Noun
+    French: 
+      language=[French]
+    Middle English: 
+      language=[Middle English]
+    Middle French: 
+      language=[Middle French]
+    Old French: 
+      language=[Old French]
+      pronunciation
+

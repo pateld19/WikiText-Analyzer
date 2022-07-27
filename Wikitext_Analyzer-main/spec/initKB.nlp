@@ -1,0 +1,18 @@
+###############################################
+# FILE: initKB
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-19 10:26:30
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("words") = findconcept(findroot(),"words");
+if (!G("words")) G("words") = makeconcept(findroot(),"words");
+rmchildren(G("words"));
+
+G("word") = makeconcept(G("words"),G("$inputhead"));
+
+
+@@CODE

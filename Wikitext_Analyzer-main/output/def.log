@@ -1,0 +1,10 @@
+Sequence file is:
+tokenize
+NOHASH rule: _LINE [] [] <- _xWILD [0,0 fails=( 
+)] [] _xWILD [1,1 matches=(
+ _xEND)] [] @@
+NOHASH rule: _xNIL [] [] <- _xWHITE [1,1 singlet] [] @@
+NOHASH rule: _item [] [] <- _xSTART [1,1] [] _xWILD [1,0 matches=(# *)] [] _xWILD [0,0 fails=(_xEND)] [] @@
+
+Passes: (tok,nil) (nlp,KBFuncs) (nlp,initKB) (nlp,Lines) (nlp,funcs) (nlp,RemoveWhiteSpace) (nlp,headerNames) (nlp,headers) (nlp,headerNode) (nlp,Item) (nlp,header_zone_five) (nlp,header_zone_four) (nlp,header_zone_three) (nlp,header_zone_two) (nlp,headerTwoLabels) (nlp,headerThreeLabels) (nlp,etymology) (nlp,pronunciation) (nlp,posKB) (nlp,kbOut) 
+

@@ -1,0 +1,22 @@
+###############################################
+# FILE: etymology
+# SUBJ: comment
+# AUTH: Your Name
+# CREATED: 2022-7-20 9:38:43
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _language _headerZone
+
+@PRE
+<1,1> vareq("header", "etymology");
+
+@POST
+S("con") = MakeCountCon(X("con", 2), "etymology");
+S("pos") = makeconcept(S("con"), "pos");
+single();
+
+@RULES
+_etymologyZone <-
+	_headerZone	### (1)
+	@@

@@ -1,0 +1,27 @@
+###############################################
+# FILE: funcs
+# SUBJ: comment
+# AUTH: Ashton
+# CREATED: 2022-7-26 10:53:13
+# MODIFIED:
+###############################################
+
+
+@DECL
+
+IsPOS(L("word")) {
+	L("word") = strtolower(L("word"));
+
+	if (L("word") == "noun")
+		return 1;
+	
+	if (L("word") == "verb")
+		return 1;
+
+	if (L("word") == "interjection")
+		return 1;
+
+	return 0;
+}
+
+@@DECL

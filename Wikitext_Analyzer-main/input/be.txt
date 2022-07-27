@@ -1,0 +1,1398 @@
+{{also|Appendix:Variations of "be"}}
+==Translingual==
+
+===Symbol===
+{{mul-symbol}}
+
+# {{ISO 639|1}}
+
+----
+
+==English==
+{{wikipedia}}
+
+===Etymology 1===
+{{root|en|ine-pro|*bʰuH-|*h₁es-|*h₂wes-}}
+From {{inh|en|enm|been||to be}}. The various forms have three separate origins, which were mixed together at various times in the history of English.
+* The forms beginning with ''b-'' come from {{inh|en|ang|bēon||to be, become}}, from {{inh|en|gem-pro|*beuną||to be, exist, come to be, become}}, from {{inh|en|ine-pro|*bʰúHt||to grow, become, come into being, appear}}, from the root {{m|ine-pro|*bʰuH-}}. In particular:<!--moved from [[been]]-->
+** Now-dialectal use of ''been'' as an infinitive of ''be'' is either from {{inh|en|enm|been|t=to be}} or an extension of the past participle.
+** Now-obsolete use of ''been'' as a plural present tense (meaning "are") is from {{inh|en|enm|been}}, {{m|enm|be}} (present plural of {{m|enm|been|t=to be}}, with the ''-n'' leveled in from the past and subjunctive; compare competing forms {{m|enm|aren}}/{{m|enm|are}}).
+** Use of ''been'' as a past participle is from {{inh|en|enm|been|}}, {{m|enm|ybeen}}, from {{inh|en|ang|ġebēon}}.
+* The forms beginning with ''w-'' come from the aforementioned {{inh|en|ang|bēon}}, which shared its past tense with the verb {{m|ang|wesan}}, from {{inh|en|gem-pro|*wesaną}}, from {{der|en|ine-pro|*h₂wes-||to reside}}.
+* The remaining forms are also from {{inh|en|ang|wesan||to be}}, from {{inh|en|gem-pro|*wesaną}}, from {{der|en|ine-pro|*h₁ésti}}, from the root {{m|ine-pro|*h₁es-}}.
+
+====Pronunciation====
+* {{a|RP}} {{IPA|en|/biː/}}
+* {{audio|en|En-uk-to be.ogg|Audio (RP; “to be”)}}
+* {{a|GA}} {{IPA|en|/bi/}}
+* {{audio|en|En-us-be.ogg|Audio (GA)}}
+* {{rhymes|en|iː|s=1}}
+* {{homophones|en|b|bee|Bea}}
+
+====Verb====
+{{head|en|verb|[[#Conjugation|highly irregular]]; inflected forms '''[[being]]''', '''[[been]]''', '''[[am]]''', '''[[are]]''', '''[[is]]''', '''[[was]]''', '''[[were]]'''}}
+
+# {{lb|en|intransitive|now|usually|literary}} To [[exist]]; to have real existence, to be alive.
+#: {{ux|en|The Universe has no explanation: it just '''is'''.}}
+#* {{RQ:Tyndale NT|Matthew|2|18|iij|Rachel wepynge ffor her chyldren&nbsp;/ and wolde nott be comforted becauſe they '''were''' not.}}
+#* {{RQ:Shakespeare Hamlet|III|iii|page=265|passage=To '''be''', or not to '''be''': that is the question: / Whether 'tis nobler in the mind to suffer / The slings and arrows of outrageous fortune, / Or to take arms against a sea of troubles, / And by opposing end them?}}
+#* {{RQ:Montaigne Florio Essayes|chapter=12|book=II|page=351|passage={{...}}it were great sottishnesse, and apparent false-hood, to say, that that '''is''' which is not yet in being, or that already hath ceased from being.}}
+#* '''1643''', {{w|Thomas Browne}}, ''Religio Medici'', II.2, [https://books.google.com/books?id=bHljAAAAcAAJ&pg=PA163 link]:
+#*: There is surely a peece of Divinity in us, something that '''was''' before the Elements, and owes no homage unto the Sun.
+#* {{quote-journal|1=en|author=Andrew Martin Fairbairn|journal=Christ in the Centuries, and Other Sermons|publisher=E.P. Dutton & Company|year=1893|volume=12|page=116|pageurl=https://books.google.com/books?id=ArIzAQAAIAAJ&pg=PA116|edition=second|passage=And after this death there is to be no resurrection. The old man of sin has ceased to '''be'''; once crucified, he lives no more. The death is utter; the end complete.}}
+#* {{quote-av|title=[[w:Monty Python's Flying Circus|Monty Python's Flying Circus]]
+|episode=Full Frontal Nudity, [[w:Dead Parrot sketch|Dead Parrot sketch]]|author=[[w:Monty Python|Monty Python]]|date=1969-12-07|role=[[w:Mr Praline|Mr Praline]]|actor=[[w:John Cleese|John Cleese]]|1=en|passage=This parrot is no more! It has ceased to '''be'''! It's expired and gone to meet its maker! This is a late parrot! It's a stiff! Bereft of life, it rests in peace! If you hadn't nailed it to the perch it would be pushing up the daisies!}}
+#* '''2004''', Richard Schickel, "Not Just an African Story", ''Time'', 13 December:
+#*: The genial hotel manager of the past '''is''' no more. Now owner of a trucking concern and living in Belgium, Rusesabagina says the horrors he witnessed in Rwanda "made me a different man."
+# {{lb|en|with {{m|en|there}}, or dialectally {{m|en|it}}, as {{glossary|dummy pronoun|dummy subject}}}} To [[exist]].
+#*{{RQ:Shakespeare Merchant of Venice|IV|i|page=178|passage=Some men there '''are''' loue not a gaping Pigge: / Some that are mad, if they behold a Cat: / And others, when the bag-pipe sings i’th nose, / Cannot containe their Vrine for affection.}}
+#* {{RQ:Austen Persuasion|volume=IV|page=170|passage="There '''is''' a sort of domestic enjoyment to be known even in a crowd, and this you had."}}
+#* '''2011''', Mark Sweney, ''The Guardian'', 6 July:
+#*: "There has '''been''' lots of commentary on who is staying and who is staying out and this weekend will be the real test," said one senior media buying agency executive who has pulled the advertising for one major client.
+#: {{ux|en|There '''is''' just one woman in town who can help us.}}
+#: {{ux|en|{{lb|en|or, dialectally:}} It '''is''' just one woman in town who can help us.}}
+# {{lb|en|intransitive}} To [[occupy]] a [[place]].
+#: {{ux|en|The cup '''is''' on the table.}}
+# {{lb|en|intransitive}} To [[occur]], to take place.
+#: {{ux|en|When will the meeting '''be'''?}}
+# {{lb|en|intransitive|in perfect tenses}} {{non-gloss definition|[[elliptical|Elliptical]] form of "be here", "go to and return from" or similar, also extending to certain other senses of "go".}}
+#: {{ux|en|The postman has '''been''' today, but my tickets have still not yet come.}}
+#: {{ux|en|I have '''been''' to Spain many times.}}
+#: {{ux|en|We've '''been''' about twenty miles.}}
+#: {{ux|en|I have terrible constipation – I haven't '''been''' for several days.}}
+#: {{ux|en|They have '''been''' to a great deal of trouble.}}
+# {{lb|en|transitive|copulative}} {{non-gloss definition|Used to indicate that the subject and object are the same.}}
+#: {{ux|en|Knowledge '''is''' bliss.}}
+#: {{ux|en|Hi, I'''’m''' Jim.}}
+# {{lb|en|transitive|copulative|mathematics}} {{non-gloss definition|Used to indicate that the values on either side of an equation are the same.}}
+#: {{ux|en|3 times 5 '''is''' fifteen.}}
+# {{lb|en|transitive|copulative}} {{non-gloss definition|Used to indicate that the subject is an instance of the predicate nominal.}}
+#: {{ux|en|A dog '''is''' an animal.}}
+#: {{ux|en|Dogs '''are''' animals.}}
+# {{lb|en|transitive|copulative}} {{non-gloss definition|Used to indicate that the subject plays the role of the predicate nominal.}}
+#: {{ux|en|François Mitterrand '''was''' president of France from 1981 to 1995.}}
+# {{lb|en|transitive|copulative}} {{non-gloss definition|Used to indicate that the subject has the qualities described by an adjective.}}
+#: {{ux|en|The sky '''is''' blue.}}
+#: {{ux|en|Father, if thou '''be''' willing, remove this cup from me: nevertheless not my will, but thine, be done. (Luke 22:42)}}
+# {{lb|en|transitive|copulative}} {{non-gloss definition|Used to indicate that the subject has the qualities described by a noun or noun phrase.}}
+#: {{ux|en|The sky '''is''' a deep blue today.}}
+# {{lb|en|transitive|auxiliary}} {{non-gloss definition|Used to form the [[passive voice]].}}
+#: {{ux|en|The dog '''was''' saved by the boy.}}
+#* {{quote-book|en|year=1995|author=C. K. Ogden|title=Psyche: An Annual General and Linguistic Psychology 1920-1952|pageurl=http://books.google.com.br/books?id=43QCzKUXkBYC&pg=PA13#v=onepage&q&f=false|isbn=9780415127790|page=13|publisher=C. K. Ogden|passage=Study courses of Esperanto and Ido have '''been''' broadcast.}}
+# {{lb|en|transitive|auxiliary}} {{non-gloss definition|Used to form the [[continuous aspect]].}}
+#: {{ux|en|The woman '''is''' walking.}}
+#: {{ux|en|I shall '''be''' writing to you soon.}}
+#: {{ux|en|We liked to chat while we '''were''' eating.}}
+#* {{quote-book|en|year=1995|author=C. K. Ogden|title=Psyche: An Annual General and Linguistic Psychology 1920-1952|pageurl=http://books.google.com.br/books?id=43QCzKUXkBYC&pg=PA13#v=onepage&q&f=false|isbn=9780415127790|page=13|publisher=C. K. Ogden|passage=In the possibility of radio uses of a constructed language — and such experiments '''are''' proving successful&mdash;vast sums of money and untold social forces may be involved.}}
+# {{lb|en||auxiliary}} {{non-gloss definition|Used to form the perfect aspect with certain intransitive verbs; this was more common in archaic use, especially with verbs indicating motion. "He is ''[[finish]]ed''", and "He is ''[[go]]ne''" are common, but "He is ''[[come]]''" is archaic.}}
+#* {{RQ:Shakespeare Macbeth|I|iv|page=133|passage=''They '''are''' not yet come back.''|footer=instead of the modern ''They '''have''' not yet come back.''}}
+#* '''1850''', {{w|Dante Gabriel Rossetti}}, ''The Blessed Damozel'', ll.67-68
+#*: ‘I wish that he '''were''' come to me, / For he will come,’ she said.
+#* Matthew 28:6 (various translations, from the King James Version of '''1611''' to Revised Version of '''1881'''):
+#*: He is not here; for he '''is''' risen{{nb...}}.
+#* '''1922''', {{w|A. E. Housman}}, {{w|Last Poems}} XXV, l.13, [https://archive.org/details/lastpoems00hous/page/51/mode/1up page 51]:
+#*: ''The King with half the East at heel '''is''' marched from lands of morning;''
+# {{lb|en|formal|transitive|auxiliary}} {{non-gloss definition|Used to express future action as well as what is due to, intended to, or should happen<!--The fifth example "I am to leave" is indicative, not subjunctive. The sixth is subjunctive, but only incidentally. They are both future periphrastic.-->.}}
+#: {{ux|en|They '''are''' to be married next month.}}
+#: {{ux|en|They '''are''' to stay here until I return.}}
+#: {{ux|en|They '''are''' not to be blamed.}}
+#: {{ux|en|How '''are''' they to get out of this mess?}}
+#: {{ux|en|I '''am''' to leave tomorrow.}}
+#: {{ux|en|I would drive you, '''were''' I to obtain a car.}}
+# {{lb|en|transitive|copulative}} {{non-gloss definition|Used to link a subject to a [[measurement]].}}
+#: {{ux|en|This building '''is''' three hundred years old.}}
+#: {{ux|en|I '''am''' 75 kilograms.}}
+#: {{ux|en|He'''’s''' about 6 feet tall.}}
+# {{lb|en|transitive|copulative|with a cardinal numeral}} {{non-gloss definition|Used to state the [[age]] of a subject in years.}}
+#: {{ux|en|I'''’m''' 20 (years old).}}
+# {{lb|en|with a {{glossary|dummy pronoun|dummy subject}} {{m|en|it}}}} {{non-gloss definition|Used to indicate the time of day.}}
+#: {{ux|en|It '''is''' almost eight (o’clock).}}
+#: {{ux|en|It'''’s''' 8:30'' [read ''eight-thirty''] ''in Tokyo.}}
+#: {{ux|en|What time is it there? It’s night.}}
+# {{lb|en|With {{m|en|since}}}} {{non-gloss definition|Used to indicate passage of [[time]] since the occurrence of an [[event]].}}
+#: {{ux|en|It has '''been''' three years since my grandmother died. (similar to "My grandmother died three years ago", but emphasizes the intervening period)}}
+#: {{ux|en|It had '''been''' six days since his departure, when I received a letter from him.}}
+# {{lb|en|rare|and|regional|chiefly|in the past tense}} {{n-g|Used to link two noun clauses, the first of which is a day of the week, recurring date, month, or other specific time (on which the event of the [[main clause]] took place), and the second of which is a period of time indicating how long ago that day was.}} {{defdate|from 15th c.}}
+#: {{ux|en|I saw her Monday '''was''' a week: I saw her a week ago last Monday (a week before last Monday).}}
+#: {{ux|en|On the morning of Sunday '''was''' fortnight before Christmas: on the morning of the Sunday that was two weeks before the Sunday prior to Christmas.}}
+#* {{RQ:Richardson Clarissa|volume=V|page=97|passage=Miss Lardner (whom you have seen at her cousin Biddulph's) saw you at St James's church on Sunday '''was''' fortnight.}}
+#* '''1770''', Ireland, ''Historical Memoirs of the Irish Rebellion, in the year 1641 ... In a letter to Walter Harris, Esq; [By John Curry.] The fourth edition, with corrections throughout the whole, and large additions, by the author'', page 186:
+#*: And so, without as much as to return home to furnish myself for such a journey, volens, nolens, they prevailed, or rather forced me to come to Dublin to confer with those colonels, and that was the last August '''was''' twelvemonth.
+#* '''1803''', Great Britain. Parliament. House of Commons, ''Journals of the House of Commons'', page 249:
+#*: That they were present at the Election in August '''was''' Twelvemonth, at which there was the strictest Scrutiny that ever they saw in their Lives, by all the Four Candidates.
+#* {{RQ:Scott Guy Mannering|volume=I|chapter=V|pages=79-80|pageref=79|passage=Allow me to recommend some of the kipper—It was John Hay that catched it Saturday '''was''' three weeks.}}
+#* {{RQ:Eliot Adam Bede|volume=III|page=53|passage=“Did there come no young woman here—very young and pretty—Friday '''was''' a fortnight, to see Dinah Morris?”}}
+#* '''1895''', Miss M. E. Rope of Suffolk, quoted by Joseph Wright, in ''The English Dialect Dictionary'', page 202:
+#*: 'Twas there to-morrow '''is''' a week.
+#* '''1907''', {{w|John Millington Synge}}, ''The Playboy of the Western World'', I, [https://archive.org/details/playboyofwestern0000syng_q6r6/page/20/mode/1up page 20]:
+#*: I killed my poor father, Tuesday '''was''' a week, for doing the like of that.
+#* '''1920''' (published), St. George Kieran Hyland, ''A Century of Persecution Under Tudor and Stuart Sovereigns from Contemporary Records'', London, Paul, page 402, quoting an earlier document, ''Loosley'' volume 5, no. 28, "List of Prisoners: In Sir W. More's handwriting": :
+#*: Theobald Green gent dead in the Marshalsea in August '''was''' twelvemonth
+#*: John Grey gent delivered out of the Marshalsea about August last by Mr. Secretary and remains in St. Mary Overies.
+#*: John Jacob gent delivered out of the Marsh. the XVII of May '''was''' twelvemonth and sent to Bridewell by order of the Council.
+# {{lb|en|often|impersonal|with {{m|en|it}} as a {{glossary|dummy pronoun|dummy subject}}}} {{non-gloss definition|Used to indicate [[weather]], [[air]] [[quality]], or the like.}}
+#: {{ux|en|It '''is''' hot in Arizona, but it '''is''' not usually humid.}}
+#: {{ux|en|Why '''is''' it so dark in here?}}
+# {{lb|en|[[be#English-dynamic_conjugation|dynamic / lexical "be"]]|especially in progressive tenses|conjugated non-suppletively in the present tense|see usage notes}} To exist or behave in a certain way.
+#* '''2006''' October 9, Kristin Newman (writer), Barney Stinson (character), ''[[w:How I Met Your Mother|How I Met Your Mother]]'', season 2, episode 1:
+#*: "When I get sad, I stop being sad and '''be''' awesome instead."
+#: {{ux|en|"What do we do?" "We '''be''' ourselves."}}
+#: {{ux|en|Why is he '''being''' nice to me?}}
+# {{lb|en|AAVE|Caribbean|auxiliary|not conjugated}} To tend to do, often do; {{non-gloss definition|marks the [[w:Habitual be|habitual aspect]].}}
+#* '''1996''', David Sheffield, Barry W. Blaustein, Tom Shadyac and Steve Oedekerk, screenplay of ''The Nutty Professor''
+#*: Women '''be''' shoppin’! You cannot stop a woman from shoppin’!
+#* '''2020''', {{w|Moneybagg Yo}}, ''Thug Cry''
+#*: Niggas '''be''' tellin' these bitches 'bout business
+
+=====Usage notes=====
+* When used copulatively with a pronoun, traditional grammar puts the pronoun in the [[subjective case]] ({{m|en||I}}, {{m|en||he}}, {{m|en||she}}, {{m|en||we}}, {{m|en||they}}) rather than the [[objective case]] ({{m|en||me}}, {{m|en||him}}, {{m|en||her}}, {{m|en||us}}, {{m|en||them}}), regardless of which side of the copula it is placed. For example, “''I was the masked man''” and “''The masked man was I''” would both be considered correct, while “''The masked man was me''” and “''Me was the masked man''” would both be incorrect. However, most colloquial speech treats the verb ''be'' as transitive, in which case the pronoun is used in the objective case if it occurs after the copula: “''I was the masked man''” but “''The masked man was me''”. This paradigm applies even if the copula is linking two pronouns; thus “''I am her''” and “''She is me''", and “''Am I me?''” (versus the traditional “''I am she''”, “''She is I''”, “''Am I I?''”). However, the use of ''whom'' with a copula is generally considered incorrect and a [[hypercorrection]], though in some cases (especially in sentences involving a [[to-infinitive]] or a perfect tense), such as “''Whom do you want to be?''”, it can come naturally to some speakers; in short, straightforward sentences, such as “''Whom are you?''”, this is much rarer and likelier to be considered incorrect.
+* Except senses 12 (auxiliary forming the passive voice), 13 (auxiliary forming the continuous aspect) and 22 (dynamic or lexical ''be''), this is generally a [[stative verb]] that rarely takes the continuous aspect. See [[:Category:English stative verbs]].
+
+=====Conjugation=====
+{| class="wikitable collapsible collapsed" style="text-align:center"
+! colspan="7" | Modern conjugations
+|-
+! colspan="2" | infinitive
+| colspan="5" | {{l|en|to}} be
+|-
+! colspan="2" | present participle/gerund
+| colspan="5" | {{l|en|being}}
+|-
+! colspan="2" | past participle
+| colspan="5" | {{l|en|been}}
+|-
+! rowspan="2" |
+! colspan="2" | indicative
+! colspan="2" | subjunctive
+! colspan="2" | imperative
+|-
+! singular
+! plural
+! singular
+! plural
+! singular
+! plural
+|-
+! rowspan="3" | present
+| I {{l|en|am}} ({{l|en|'m|’m}})
+| we {{l|en|are}} ({{l|en|'re|’re}})
+| I be
+| we be
+| let me be
+| {{l|en|let us|let us}} be, {{l|en|let's|let’s}} be
+|-
+| you {{l|en|are}} ({{l|en|'re|’re}})
+| you {{l|en|are}} ({{l|en|'re|’re}})
+| you be
+| you be
+| be
+| be
+|-
+| he/she/it {{l|en|is}} ({{l|en|'s|’s}}) <br/>they {{l|en|are}}*** ({{l|en|'re|’re}})
+| they {{l|en|are}} ({{l|en|'re|’re}})
+| he/she/it/they be
+| they be
+| let him/her/it/them be
+| let them be
+|-
+! rowspan="3" | preterite
+| I {{l|en|was}}*
+| we {{l|en|were}}**
+| I {{l|en|were}}
+| we {{l|en|were}}
+|rowspan="3" colspan="2" bgcolor="lightgray"|
+|-
+| you {{l|en|were}}**
+| you {{l|en|were}}**
+| you {{l|en|were}}
+| you {{l|en|were}}
+|-
+| he/she/it {{l|en|was}}* <br/>they {{l|en|were}}**
+| they {{l|en|were}}**
+| he/she/it/they {{l|en|were}}
+| they {{l|en|were}}
+|}
+<small>*Some non-standard dialects use {{m|en|were}} in these instances.</small><br>
+<small>**Some non-standard dialects use {{m|en|was}} in these instances.</small><br>
+<small>***Some non-standard forms use {{m|en|is}} in these instances.</small><br>
+{| class="wikitable collapsible collapsed" style="text-align:center"
+! colspan="7" | Archaic conjugations
+|-
+! colspan="2" | infinitive
+| colspan="5" | {{l|en|to}} be
+|-
+! colspan="2" | present participle/gerund
+| colspan="5" | {{l|en|being}}
+|-
+! colspan="2" | past participle
+| colspan="5" | {{l|en|been}}
+|-
+! rowspan="2" |
+! colspan="2" | indicative
+! colspan="2" | subjunctive
+! colspan="2" | imperative
+|-
+! singular
+! plural
+! singular
+! plural
+! singular
+! plural
+|-
+! rowspan="3" | present
+| I {{l|en|am}} ({{l|en|'m|’m}})/{{l|en|be}}
+| we {{l|en|are}} ({{l|en|'re|’re}})/{{l|en|be}}/{{l|en|been}}
+| I be
+| we be
+| —
+| {{l|en|let's|let’s}} be
+|-
+| thou {{l|en|art}} ({{l|en|thou'rt|’rt}})/{{l|en|beest}}
+| ye {{l|en|are}} ({{l|en|ye're|’re}})/{{l|en|be}}/{{l|en|been}}
+| thou {{l|en|be}}/{{l|en|beest}}
+| ye be
+| be (thou)***
+| be (ye)***
+|-
+| he/she/it {{l|en|is}} ({{l|en|'s|’s}})/{{l|en|beeth}}/{{l|en|bes}}
+| they {{l|en|are}} ({{l|en|'re|’re}})/{{l|en|be}}/{{l|en|been}}
+| he/she/it be
+| they be
+| —
+| —
+|-
+! rowspan="3" | preterite
+| I {{l|en|was}}*
+| we {{l|en|were}}**
+| I {{l|en|were}}
+| we {{l|en|were}}**
+|rowspan="3" colspan="2" bgcolor="lightgray"|
+|-
+| thou {{l|en|wert}}/{{l|en|wast}}
+| ye {{l|en|were}}**
+| thou {{l|en|were}}/{{l|en|wert}}
+| ye {{l|en|were}}**
+|-
+| he/she/it {{l|en|was}}*
+| they {{l|en|were}}**
+| he/she/it {{l|en|were}}
+| they {{l|en|were}}**
+|}
+<small>*Some non-standard dialects will have {{l|en|were}} in these instances.</small><br><small>**Some non-standard dialects will have {{l|en|was}} in these instances.</small><br><small>***Subject pronoun is optional.</small>
+
+* The verb {{m|en||be}} is the most irregular non-defective verb in Standard English. Unlike other verbs, which distinguish at most five forms (as in {{m|en||do}}–{{m|en||does}}–{{m|en||doing}}–{{m|en||did}}–{{m|en||done}}), {{m|en||be}} distinguishes many more:
+** {{m|en||Be}} itself is the plain form, used as the infinitive, as the imperative, and as the present subjunctive (though many speakers do not distinguish the present indicative and present subjunctive, using the indicative forms for both).
+**:: ''I want to '''be''' a father someday.'' (infinitive)
+**:: ''If that '''be''' true...'' (present subjunctive; ''is'' is common in this position)
+**:: ''Allow the truth to '''be''' heard!'' (infinitive)<!--As it stood, "Let the truth be heard", it could have been interpreted just as validly as a subjunctive. This version eliminates the ambiguity.-->
+**:: ''Please '''be''' here by eight o’clock.'' (imperative)
+**:: ''The librarian asked that the rare books not '''be''' touched.'' (present subjunctive; speakers that do not distinguish the subjunctive and indicative would use an [[auxiliary verb]] construction here)
+**: {{senseid|en|dynamic conjugation}}{{m|en||Be}} is also used as the present tense indicative form in the alternative, dynamic / lexical conjugation of ''be'':
+**:: ''What do we do? We '''be''' ourselves.'' (first-person plural present indicative, lexical be)
+**:: but: ''Who '''are''' we? We '''are''' human beings.'' (first-person plural present indicative, copula be)
+**: It is also an archaic alternative form of the indicative, especially in the plural:<ref>{{cite-book|author=Goold Brown|authorlink=Goold Brown|chapter=Of Verbs|title=The Grammar of English Grammars,{{nb...|with an Introduction, Historical and Critical; the Whole Methodically Arranged and Amply Illustrated; with Forms of Correcting and of Parsing, Improprieties for Correction, Examples for Parsing, Questions for Examination, Exercises for Writing, Observations for the Advanced Student, Decisions and Proofs for the Settlement of Disputed Points, Occasional Strictures and Defences, an Exhibition of the Several Methods of Analysis, and a Key to the Oral Exercises: to Which Are Added Four Appendixes, Pertaining Separately to the Four Parts of Grammar}}|location=New York, N.Y.|publisher={{...|Published by}}Samuel S. & William Wood,{{nb...|No. 261 Pearl Street}}|year=1851|page=357|pageurl=https://archive.org/details/grammarofenglish00browrich/page/357/mode/1up}}.</ref>
+**:: ''The [[powers that be|powers that '''be''']], are ordained of God.'' (Romans 13:1, Tyndale Bible, 1526)<ref>{{R:Tyndale NT|Romans|13|1|ccxiij|verso=1|The powers that be&nbsp;/ are ordeyned off God.|nodot=1}}</ref>
+**:: ''We are true men; we are no spies: We '''be''' twelve brethren...'' (Genesis 42:31-2, King James Version, 1611)<ref>{{R:King James Version|Genesis|42|31|32|page=125|column=2|We are true men; we are no ſpies. We be twelue brethren{{nb...}}}}</ref>
+**:: ''I think it '''be''' thine indeed, for thou liest in it.'' (Hamlet, Act V, Scene 1, circa 1600 — though this may be viewed as the subjunctive instead)<ref>{{cite-book|author=William Shakespeare|authorlink=William Shakespeare|chapter=[[w:Hamlet|The Tragedie of Hamlet, Prince of Denmarke]]|title=Mr. William Shakespeares Comedies, Histories, & Tragedies: Published According to the True Originall Copies|series=[[w:First Folio|First Folio]]|location=London|publisher={{...|Printed by}} [[w:William Jaggard|Isaac Iaggard]], and [[w:Edward Blount|Ed[ward] Blount]]|year=c. 1599–1602|year_published=1623|section=[Act V, scene i]|page=277|pageurl=https://archive.org/details/mrvvilliamshakes00shak/page/277/mode/1up|column=2|oclc=606515358|passage=I thinke it be thine indeed: for thou lieſt in’t.}}</ref>
+** {{m|en|am|Am}}, {{m|en|are}}, and {{m|en|is}} are the forms of the present indicative. {{m|en||Am}} is the first-person singular (used with {{m|en||I}}); {{m|en||is}} is the third-person singular (used with {{m|en||he}}, {{m|en||she}}, {{m|en||it}} and other subjects that would be used with {{m|en||does}} rather than {{m|en||do}}); and {{m|en||are}} is both the second-person singular and the plural (used with {{m|en||we}}, {{m|en||you}}, {{m|en||they}}, and any other plural subjects).
+**: '''''Am''' I in the right place?'' (first-person singular present indicative)
+**: ''You '''are''' even taller than your brother!'' (second-person singular present indicative)
+**: ''Where '''is''' the library?'' (third-person singular present indicative)
+**: ''These '''are''' the biggest shoes we have.'' (plural present indicative)
+** {{m|en|was|Was}} and {{m|en|were}} are the forms of the past indicative and past subjunctive (like {{m|en||did}}). In the past indicative, {{m|en||was}} is the first- and third-person singular (used with {{m|en||I}}, as well as with {{m|en||he}}, {{m|en||she}}, {{m|en||it}} and other subjects that would be used with {{m|en||does}} rather than {{m|en||do}}), and {{m|en||were}} is both the second-person singular and the plural (used with {{m|en||we}}, {{m|en||you}}, {{m|en||they}}, and any other plural subjects). In the traditional past subjunctive, {{m|en||were}} is used with all subjects, though many speakers do not actually distinguish the past subjunctive from the past indicative, and therefore use {{m|en||was}} with first- and third-person singular subjects even in cases where other speakers would use {{m|en||were}}.
+**: ''I '''was''' out of town.'' (first-person singular past indicative)
+**: ''You '''were''' the first person here.'' (second-person singular past indicative)
+**: ''The room '''was''' dirty.'' (third-person singular past indicative)
+**: ''We '''were''' angry at each other.'' (plural past indicative)
+**: ''I wish I '''were''' more sure.'' (first-person singular past subjunctive; ''was'' is also common, though considered less correct by some)
+**: ''If she '''were''' here, she would know what to do.'' (third-person singular past subjunctive; ''was'' is also common, though considered less correct by some)
+** {{m|en|being|Being}} is the gerund and present participle, used in progressive aspectual forms, after various [[Appendix:English catenative verbs|catenative]] verbs, and in other constructions that function like nouns, adjectivally or adverbially. (It’s also used as a deverbal noun and as a conjunction; see those senses in the entry for {{m|en|being}} itself.)
+**: '''''Being''' in London and '''being''' in Tokyo have similar rewards but in different languages.'' (gerund in grammatical subject)
+**: ''All of a sudden, he’s '''being''' nice to everyone.'' (present participle in progressive aspect)
+**:''His mood '''being''' good increased his productivity noticeably.'' (present participle in adjectival phrase)
+**: ''It won’t stop '''being''' a problem until someone does something about it.'' (gerund after catenative verb)
+** {{m|en|been|Been}} is the past participle, used in the perfect aspect. In Middle English, it was also the infinitive.
+**: ''It’s '''been''' that way for a week and a half.''
+* In archaic or obsolete forms of English, with the pronoun {{m|en|thou}}, the verb {{m|en||be}} has a few additional forms:
+** When the pronoun {{m|en||thou}} was in regular use, the forms {{m|en|art}}, {{m|en|wast}}, and {{m|en|wert}} were the corresponding present indicative, past indicative, and past subjunctive, respectively.
+** As {{m|en||thou}} became less common and more highly marked, a special present-subjunctive form {{m|en|beest}} developed (replacing the regular present subjunctive form {{m|en||be}}, still used with all other subjects). Additionally, the form {{m|en||wert}}, previously a past subjunctive form, came to be used as a past indicative as well.
+* The forms {{m|en||am}}, {{m|en||is}}, and {{m|en||are}} can contract with preceding subjects: {{m|en|I'm|I’m|I am}}, {{m|en|'s|’s|is}}, {{m|en|'re|’re|are}}. The form {{m|en||are}} most commonly contracts with personal pronouns ({{m|en|we're|we’re|we are}}, {{m|en|you're|you’re|you are}}, {{m|en|they're|they’re|they are}}), but contractions with other subjects are possible; the form {{m|en||is}} contracts quite freely with a variety of subjects. These contracted forms, however, are possible only when there is an explicit, non-preposed complement, and they cannot be stressed; therefore, contraction does not occur in sentences such as the following:
+*: ''Who’s here? —I '''am'''.''
+*: ''I wonder what it '''is'''.''
+*: ''I don’t want to be involved. —But you '''''are''''' involved, regardless.''
+* Several of the finite forms of {{m|en||be}} have special negative forms, containing the suffix {{m|en|-n't|-n’t}}, that can be used instead of adding the adverb {{m|en|not}}. Specifically, the forms {{m|en||is}}, {{m|en||are}}, {{m|en||was}}, and {{m|en||were}} have the negative forms {{m|en|isn't|isn’t}}, {{m|en|aren't|aren’t}}, {{m|en|wasn't|wasn’t}}, and {{m|en|weren't|weren’t}}. The form {{m|en||be}} itself does not, even in finite uses, with “not be” being used in the present subjunctive and “do not be” or “don’t be” (or, in dated use, “be not”) being used in the imperative. The form {{m|en||am}} has the negative forms {{m|en|aren't|aren’t}}, {{m|en|amn't|amn’t}}, and {{m|en|ain't|ain’t}}, but all of these are in restricted use; see their entries for details.
+* Outside of Standard English, there is some variation in usage of some forms; some dialects, for example, use {{m|en||is}} or {{m|en||’s}} throughout the present indicative (supplanting, in whole or in part, {{m|en||am}} and {{m|en||are}}), and/or {{m|en||was}} throughout the past indicative and past subjunctive (supplanting {{m|en||were}}).
+
+=====Quotations=====
+* {{seeCites|en}}
+
+=====Alternative forms=====
+* {{l|en|bee}} {{q|obsolete}}
+
+=====Synonyms=====
+* {{sense|to exist}} See also [[Thesaurus:exist]]
+* {{sense|used to form passive}} {{l|en|get}}
+
+=====Translations=====
+{{see translation subpage|Verb}}
+
+====References====
+* {{R:American Heritage 2000|be}}
+* {{R:Dictionary.com|be}}
+* {{R:WordNet 2003|be}}
+
+===Etymology 2===
+A variant of {{m|en|by}} which goes back to {{inh|en|enm|be}} (variant of {{m+|enm|bi}}).
+
+====Pronunciation====
+* {{IPA|en|/bi/|/bə/|/bɪ/}},<ref name="EDD">{{R:EDD}}</ref> {{a|Northumberland}} {{IPAchar|/bɛ/}}<ref name="EDD"/>
+
+====Preposition====
+{{en-prep}}
+
+# {{lb|en|dialectal|possibly|dated}} {{alt form|en|by}}. {{n-g|Also found in compounds, especially oaths, e.g. {{m|en|begorra}}.}}
+#* '''1851''', Oliver Ormerod, ''Felley fro Rachde'':
+#*: O ful tru un pertikler akeawnt o... th' greyt Eggshibishun. '''Be''' o felley fro Rachde.
+#* '''1860''', Henry Baird, ''The Song of Solomon in the Devonshire Dialect'', i 8:
+#*: Go thy way vorth '''be''' tha vootsteps uv tha vlock.
+#* '''1870''', Joseph Philip Robson, ''Evangeline: The Spirit of Progress'', 332:
+#*: Aw teuk me seat '''be''' day an' neet.
+#* '''1870''', Roger Piketah, ''Forness Folk'' 44:
+#*: Fetchin' it yan... '''be''' a round about rooad.
+#* '''1878''', John Castillo, ''Poems in the North Yorkshire Dialect'', 35:
+#*: Like a leeaf '''be''' firm decree / Mun fade an' fall.
+#* '''1885''', Alfred Lord Tennyson, ''To-morrow'':
+#*: ‘I'll meet you agin to-morra,’ says he, ‘'''be''' the chapel-door.’
+
+===References===
+<references/>
+
+===Anagrams===
+* {{anagrams|en|a=be|EB|Eb}}
+
+[[Category:English stative verbs]]
+{{catlangname|en|suppletive verbs|two-letter words}}
+
+----
+
+==Albanian==
+
+===Etymology===
+From {{inh|sq|sqj-pro|*bẹðə}} < {{m|sqj-pro|*baidā}}, from {{der|sq|ine-pro|*bʰoydʰéh₂|*bʰoydʰ-eh₂}} < {{m|ine-pro|*bʰeydʰ-||to persuade}}.<ref>{{R:sq:Schumacher-Matzinger|page=236}}</ref> Compare {{cog|ang|bād||pledge, expectation}}, {{cog|sla-pro|*bě̄dà}}, {{cog|grc|πείθω}}, {{cog|la|foedus}}.
+
+===Pronunciation===
+* {{IPA|sq|[bɛ]}}
+
+===Noun===
+{{sq-noun|f|be|beja|betë}}
+
+# [[oath]]
+# [[vow]], [[swearing]]
+
+====Derived terms====
+* {{l|sq|përbej}}
+* {{l|sq|besë}}
+* {{l|sq|betoj}}
+* {{l|sq|betohem}}
+* {{l|sq|bind}}
+
+===References===
+<references />
+
+----
+
+==Balinese==
+
+===Noun===
+{{head|ban|noun}}
+
+# [[fish]]
+# [[meat]], [[fish]], [[tofu]], [[egg]] {{qualifier|everything that is eaten with rice except vegetables}}
+
+----
+
+==Basque==
+
+===Pronunciation===
+{{eu-IPA}}
+
+===Noun===
+{{eu-noun|in}}
+
+# {{Latn-def|eu|name|B|b}}
+
+====Declension====
+{{eu-decl-inanim}}
+
+====See also====
+* {{list:Latin script letter names/eu}}
+
+----
+
+==Blagar==
+
+===Pronunciation===
+* {{IPA|beu|/be/}}
+
+===Noun===
+{{head|beu|noun}}
+
+# [[pig]]
+
+===References===
+* A. Schapper, ''[https://books.google.com/books?id=dvPnBQAAQBAJ&pg=PA175 The Papuan Languages of Timor, Alor and Pantar: Volume 1]''
+* [http://transnewguinea.org/language/blagar-apuri-on-pura?page=2 Stokhof (1975)]
+
+----
+
+==Catalan==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{ca-IPA|é}}
+* {{rhymes|ca|e|s=1}}
+
+====Noun====
+{{ca-noun|f}}
+
+# {{Latn-def|ca|name|B|b}}
+
+=====Usage notes=====
+In some dialects of Catalan, the sounds associated with the letter ''b'' and the letter ''v'' are the same: {{IPAchar|[b ~ β]}}. In order to differentiate ''be'' and {{m|ca|ve}} in those dialects, the letters are often called {{m|ca|be alta||high B}} and {{m|ca|ve baixa||low V}}.
+
+=====Derived terms=====
+* {{l|ca|be alta}}
+
+===Etymology 2===
+Onomatopoeic from the sound of a lamb.
+
+====Pronunciation====
+* {{ca-IPA|è}}
+
+====Noun====
+{{ca-noun|m|bens}}
+
+# [[sheep]], [[ram]], [[ewe]], [[lamb]]; an individual of the species ''[[Ovis aries]]''.
+
+[[Category:Catalan onomatopoeias]]
+[[Category:ca:Agriculture]]
+[[Category:ca:Sheep]]
+
+----
+
+==Dorasque==
+
+===Noun===
+{{head|cba-dor|noun}}
+
+# {{lb|cba-dor|Changuena|Chumulu|Gualaca}} [[night]]
+
+===References===
+* Alphonse Louis Pinart, ''Vocabulario Castellano-dorasque, Dialectos Chumulu, Gualaca Y Changuina'' (1890)
+
+----
+
+==East Central German==
+
+===Etymology===
+From {{inh|lb|goh|bī}}, from {{inh|lb|gem-pro|*bi}}. Compare {{cog|de|bei}}.
+
+===Preposition===
+{{head|gmw-ecg|preposition|}}
+
+# {{lb|gmw-ecg|Erzgebirgisch}} [[at]]; [[with]]; [[by]]; [[near]]; (close) [[to]]
+
+===Further reading===
+* {{R:gmw-ecg:Heidler|21}}
+
+----
+
+==Esperanto==
+
+===Etymology===
+{{onomatopoeic|eo}}.
+
+===Pronunciation===
+{{eo-IPA|'|be}}
+
+===Interjection===
+{{head|eo|interjection}}
+
+# {{non-gloss definition|The [[characteristic]] [[cry]] of a [[sheep]].}}
+
+====Derived terms====
+* {{l|eo|bei}}
+
+----
+
+==Faroese==
+
+===Noun===
+{{fo-noun|n|bes|be}}
+
+# {{Latn-def|fo|name|B|b}}
+
+====Declension====
+{{fo-decl-noun-n4|be}}
+
+===See also===
+* {{list:Latin script letter names/fo}}
+
+----
+
+==Guerrero Amuzgo==
+
+===Adjective===
+{{head|amu|adjective}}
+
+# [[red]]
+
+----
+
+==Hungarian==
+
+===Pronunciation===
+* {{hu-IPA}}
+* {{audio|hu|Hu-be.ogg|Audio}}
+* {{rhymes|hu|bɛ|s=1}}
+
+===Adverb===
+{{hu-adv|comp=beljebb}}
+
+# [[in]] {{gloss|towards the interior of a defined space, such as a building or room}}
+#: {{ant|hu|ki}}
+
+====Usage notes====
+{{U:hu:separated-verbal-prefix}}
+
+====Derived terms====
+{{col4|hu|title=Compound words
+|befelé
+}}
+
+====Related terms====
+{{hu-bel-related}}
+
+===Further reading===
+* {{R:ErtSz|1|adverb: “in”}}
+* {{R:ErtSz|2|interjection-like adverb: “how…!”; a dated, poetic synonym of {{m|hu|de}}}}
+* {{R:Nagyszotar}}
+
+===Anagrams===
+* {{anagrams|hu|eb}}
+
+{{cln|hu|two-letter words}}
+
+----
+
+==Iau==
+
+===Noun===
+{{head|tmu|noun}}
+
+# [[fire]]
+
+===Further reading===
+Bill Palmer, ''The Languages and Linguistics of the New Guinea Area'' ({{ISBN|3110295253}}, 2017), page 531, table 95, ''Comparative basic vocabulary in Lakes Plain Languages''
+
+----
+
+==Ido==
+
+===Pronunciation===
+* {{IPA|io|/be/|/bɛ/}}
+
+===Noun===
+{{head|io|noun|plural|be-i}}
+
+# {{non-gloss definition|The name of the [[Appendix:Latin script|Latin script]] letter '''[[B]]'''/'''[[b]]'''.}}
+
+====See also====
+* {{list:Latin script letter names/io}}
+
+----
+
+==Italian==
+
+===Pronunciation===
+{{it-pr|**bé*<ref:{{R:it:DiPI}}>}}
+
+===Noun===
+{{it-noun|f|#}}
+
+# {{tlb|it|regional}} {{obs form|it|bi|nodot=1}}
+
+===References===
+<references />
+* {{R:it:Trec|be_res-ba47fc2d-0010-11de-9d89-0016357eee51|be}}
+
+----
+
+==Japanese==
+
+===Romanization===
+{{ja-romaji}}
+
+# {{ja-romanization of|べ}} (hiragana)
+# {{ja-romanization of|ベ}} (katakana)
+
+----
+
+==Karajá==
+
+===Noun===
+{{head|kpj|noun}}
+
+# [[water]]
+
+===References===
+* David Lee Fortune, ''Gramática Karajá: um Estudo Preliminar em Forma Transformacional''
+
+----
+
+==Latin==
+
+===Pronunciation===
+* {{la-IPA|bē}}
+
+===Noun===
+{{la-noun|bē|g=f|indecl=y}}
+
+# {{non-gloss definition|The name of the letter ''{{l|la|B}}''.}}
+
+====Coordinate terms====
+* {{Latin letter names of the Roman alphabet}}
+
+===References===
+* Arthur E. Gordon, ''The Letter Names of the Latin Alphabet'' ([[w:University of California Press|University of California Press]], 1973; volume 9 of ''University of California Publications: Classical Studies''), part III: “Summary of the Ancient Evidence”, page 32: "Clearly there is no question or doubt about the names of the vowels A, E, I, O, U. They are simply long A, long E, etc. (ā, ē, ī, ō, ū). Nor is there any uncertainty with respect to the six mutes B, C, D, G, P, T. Their names are bē, cē, dē, gē, pē, tē (each with a long E). Or about H, K, and Q: they are hā, kā, kū—each, again, with a long vowel sound."
+
+[[Category:la:Latin letter names]]
+
+----
+
+==Lithuanian==
+
+===Pronunciation===
+* {{IPA|lt|[bʲɛ]}}
+
+===Preposition===
+{{lt-prep|g}}
+
+# {{lb|lt|shows absence of something}} [[without]]
+# [[besides]]; [[but]], [[except]]
+
+====Antonyms====
+* {{l|lt|su}}
+
+----
+
+==Malagasy==
+
+===Adjective===
+{{head|mg|adjectives}}
+
+# [[big]]; [[great]]
+#: {{antonym|mg|kely}}
+# [[many]]; [[numerous]]
+
+----
+
+==Middle English==
+
+===Etymology 1===
+From {{inh|enm|ang|bēon}}.
+
+====Verb====
+{{head|enm|verb}}
+
+# {{alternative form of|enm|been}}
+
+===Etymology 2===
+From {{inh|enm|ang|bēo}}.
+
+====Noun====
+{{head|enm|noun}}
+
+# {{alternative form of|enm|bee}}
+
+===Etymology 3===
+From {{inh|enm|ang|bēo}}, {{m|ang|bēom}}, first-person singular of {{m|ang|bēon}}, from {{inh|enm|gem-pro|*biumi}}, first-person singular of  {{m|gem-pro|*beuną}},
+
+====Verb====
+{{head|enm|verb form}}
+
+# {{inflection of|enm|been||1s|pres|ind}}
+
+=====Usage notes=====
+* Less common than {{m|enm|am}}.
+
+===Etymology 4===
+From {{inh|enm|ang|bēo}}, singular subjunctive of {{m|ang|bēon}}.
+
+====Verb====
+{{head|enm|verb form}}
+
+# {{inflection of|enm|been||s|pres|sub}}
+
+=====Descendants=====
+* {{desc|en|be}}
+* {{desc|sco|be}}
+
+===Etymology 5===
+From {{inh|enm|ang|bēo}}, 2nd-person singular imperative of {{m|ang|bēon}}, from {{inh|enm|gem-pro|*beu}}, 2nd-person singular imperative of {{m|gem-pro|*beuną}}.
+
+====Verb====
+{{head|enm|verb form}}
+
+# {{inflection of|enm|been||s|imp}}
+
+=====Descendants=====
+* {{desc|en|be}}
+* {{desc|sco|be}}
+
+===Etymology 6===
+{{inh|enm|ang|bēoþ}} (with the ''-þ'' replaced with an ''-n'' levelled in from the past and subjunctive, then lost), present plural of {{m|ang|bēon|t=to be}}, from {{inh|enm|gem-pro|*biunþi}}, third-person present plural of {{m|gem-pro|*beuną|t=to be, become}}.
+
+====Alternative forms====
+* {{l|enm|been}}
+
+====Verb====
+{{head|enm|verb form}}
+
+# {{inflection of|enm|been||pl|pres}}
+
+=====Usage notes=====
+The usual plural form of {{m|enm|been}} is {{m|enm|aren}} in the North, ''been'' in the Midlands, and {{m|enm|beth}} in the South; {{m|enm|sind}} also existed, especially early on, but was not the predominant form in any area.
+
+=====Descendants=====
+* {{desc|en|be}} {{q|obsolete or dialectal as the plural}}
+* {{desc|sco|be}}
+
+----
+
+==Mòcheno==
+{{root|mhn|ine-pro|*weǵʰ-}}
+
+===Etymology===
+From {{inh|mhn|gmh|wec}}, from {{inh|mhn|goh|weg}}, from {{inh|mhn|gmw-pro|*weg}}, from {{inh|mhn|gem-pro|*wegaz||way, path}}. Cognate with {{cog|de|Weg}}, {{cog|en|way}}.
+
+===Noun===
+{{mhn-noun|m}}
+
+# [[path]], [[way]]
+
+====Derived terms====
+* {{l|mhn|òlbe}}
+
+===References===
+* {{R:CLM}}
+
+{{c|mhn|Transport}}
+
+----
+
+==Norwegian Bokmål==
+
+===Etymology===
+From {{der|nb|non|biðja}}
+
+===Verb===
+{{head|nb|verb|imperative|be|present tense|ber|passive|bes|simple past|ba|or|bad|past participle|bedt|present participle|beende}}
+
+# to {{l|en|pray}}
+# to {{l|en|ask}} something of someone
+
+====Synonyms====
+* {{l|nb|bede}}
+
+====Derived terms====
+* {{l|nb|beding}}
+
+====Related terms====
+* {{l|nb|bønn}}
+
+===References===
+* {{R:The Bokmål Dictionary}}
+* {{R:Ordnett}}
+
+[[Category:Norwegian Bokmål irregular verbs]]
+
+----
+
+==Norwegian Nynorsk==
+
+===Alternative forms===
+* {{l|nn|beda}}
+* {{l|nn|bede}}
+
+===Etymology===
+From {{der|nn|non|biðja}}. Akin to {{cog|en|bid}}.
+
+===Pronunciation===
+* {{IPA|nn|/beː/}}
+
+===Verb===
+{{head|nn|verb|cat2=strong verbs|cat3=class 5 strong verbs|present tense|ber|past tense|bad|supine|bede|or|bedd|or|bedt|past participle|beden|or|bedd|present participle|bedande|imperative|be}}
+
+# to {{l|en|pray}}
+# to {{l|en|ask}} something of someone
+
+====Derived terms====
+* {{l|nn|beding}}
+
+====Related terms====
+* {{l|nn|bøn}} / {{l|nn|bønn}}
+
+===References===
+* {{R:The Nynorsk Dictionary}}
+* {{R:Ordnett}}
+
+[[Category:Norwegian Nynorsk irregular verbs]]
+
+----
+
+==Occitan==
+
+===Pronunciation===
+* {{audio|oc|LL-Q35735-Davidgrosclaude-be.wav|Audio (Gascon)}}
+
+===Noun===
+{{oc-noun|f}}
+
+# [[bee]] {{gloss|the letter b}}
+
+{{topics|oc|Latin letter names}}
+
+----
+
+==Old English==
+
+===Etymology===
+From {{inh|ang|gem-pro|*bi}}.
+
+===Pronunciation===
+* {{ang-IPA|be}}
+
+===Preposition===
+{{ang-prep}}
+
+# [[about]] (concerning)
+# [[by]], in various senses:
+## [[near]] or [[next to]]
+## not [[later]] than
+## [[based on]], [[according to]]
+
+===See also===
+* {{l|ang|bī}}
+
+----
+
+==Old Irish==
+
+===Alternative forms===
+* {{sense|2nd sg. pres. subj.}} {{l|sga|ba}}
+
+===Verb===
+{{head|sga|verb form}}
+
+# {{inflection of|sga|is||2|s|pres|subj}}
+# {{inflection of|sga|is||1//2|s|futr}}
+
+----
+
+==Old Prussian==
+
+===Conjunction===
+{{head|prg|conjunction}}
+
+# [[and]]
+#: ''[[wāiklis]] '''be''' [[mērgā]] '' - ''a boy '''and''' a girl''
+
+===Preposition===
+{{head|prg|preposition}}
+
+# [[without]]
+
+----
+
+==Phalura==
+
+===Etymology===
+From {{inh|phl|sa|वयम्||we}}.
+
+===Pronunciation===
+* {{IPA|phl|/be/}}
+
+===Pronoun===
+{{head|phl|pronoun|personal||Perso-Arabic spelling|بےۡ}}
+
+# we (1pl nom)
+
+===References===
+* {{R:phl:Liljegren:Vocab}}
+* {{R:CDIAL|2=11302}}
+
+----
+
+==Polish==
+
+===Pronunciation===
+{{pl-p|a=LL-Q809 (pol)-Olaf-be.wav}}
+
+===Etymology 1===
+From the phonetic pronunciation of the letter {{m|pl|B}}/{{m|pl|b}}.
+
+===Noun===
+{{pl-noun|n|indecl=1}}
+
+# {{Latn-def|pl|name|B|b}}
+
+===Etymology 2===
+{{onomatopoeic|pl|title=Onomatopoeic}}.
+
+===Adjective===
+{{pl-adj|bardziej|adv=be|indecl=1}}
+
+# {{lb|pl|childish}} [[icky]], [[yucky]]
+#: {{syn|pl|Thesaurus:zły}}
+
+===Adverb===
+{{pl-adv|bardziej}}
+
+# {{lb|pl|childish}} [[icky]], [[yucky]]
+
+===Interjection===
+{{head|pl|interjection}}
+
+# {{lb|pl|colloquial}} {{n-g|Used with children to tell them not to touch something}}, [[bad]]! [[no]] [[touchy]]!
+# {{lb|pl|onomatopoeia}} {{n-g|Used to imitate the sound of a sheep or ram}}, [[baa]]
+#: {{syn|pl|me}}
+
+====Derived terms====
+{{col3|pl|title=adjective|bekliwy}}
+{{col3|pl|title=interjection|ani be, ani me}}
+{{col3|pl|title=nouns|bek|beksa|bekowisko}}
+{{col3|pl|title=verbs|[[beczeć]] {{g|impf}}|[[bekać]] {{g|impf}}, [[beknąć]] {{g|pf}}}}
+
+===Further reading===
+* {{R:pl:WSJP}}
+* {{R:pl:PWN}}
+
+{{cln|pl|manner adverbs}}
+{{C|pl|Animal sounds}}
+
+----
+
+==Romanian==
+
+===Etymology===
+{{onomatopoeic|ro}}.
+
+===Interjection===
+{{head|ro|interjection}}
+
+# [[baa]] {{gl|sound made by sheep or goats}}
+
+[[Category:ro:Animal sounds]]
+
+----
+
+==Savi==
+
+===Etymology===
+From {{inh|sdg|sa|वयम्}}.
+
+===Pronoun===
+{{head|sdg|pronoun}}
+
+# [[we]]; {{n-g|first-person plural personal pronoun}}
+
+===References===
+* {{R:sdg:Knobloch}}
+
+----
+
+==Scots==
+
+===Etymology 1===
+{{dercat|sco|gmw-pro|ine-pro}}
+From {{inh|sco|enm|been}}, from {{inh|sco|ang|bēon}}. The various forms have different further etymologies:
+* The b- forms derive from {{inh|sco|gem-pro|*beuną}}.
+* All other forms derive from {{der|sco|gem-pro|*wesaną}}
+Cognates include {{cog|en|be}}.
+
+====Alternative forms====
+* {{alter|sco|bey}}
+
+====Pronunciation====
+* {{IPA|sco|[bi(ː)]|[bɪ]}}<ref>{{R:DSL|be|v.|url=https://dsl.ac.uk/entry/snd/be_v}}</ref>
+
+====Verb====
+{{head|sco|verb|head=be}}
+
+# to [[#English|be]]
+
+=====Conjugation=====
+{{sco-conj-be}}
+
+===Etymology 2===
+{{nonlemma}}
+
+====Pronunciation====
+* {{IPA|sco|[bə]|[bɪ]}}<ref>{{R:DSL|by|prep., adv., conj.|url=https://dsl.ac.uk/entry/snd/by}}</ref>
+
+====Conjunction====
+{{head|sco|conjunction}}
+
+# {{alternative form of|sco|by}}
+
+===References===
+<references/>
+
+----
+
+==Serili==
+
+===Noun===
+{{head|sve|noun}}
+
+# [[water]]
+
+===References===
+* Roger Blench, ''The Enggano'' (in notes)
+* [https://web.archive.org/web/20160518024203/http://language.psy.auckland.ac.nz/austronesian/language.php?id=311 ABVD] (as 'bɛ)
+* [http://asjp.clld.org/languages/SERILI ASJP] (as bE, representing bɛ)
+
+----
+
+==Slovene==
+
+===Etymology===
+Probably from the {{der|sl|de|-}} name of the letter {{l|de|B}} (pronounced {{IPAchar|[beː]}}).
+
+===Pronunciation===
+* {{sl-IPA|bẹ̑}}
+
+===Noun===
+{{sl-noun|bẹ̑|m-in}}
+
+# {{Latn-def|sl|name|B|b}}
+
+====Inflection====
+{{sl-decl-noun-m|bé|bêj}}<!-- bé, bêja, bêji -->
+
+====Synonyms====
+* {{l|sl|b}}
+
+----
+
+==Sotho==
+
+===Etymology===
+From {{inh|st|bnt-pro|*-bɪ́ɪ̀}}.
+
+===Adjective===
+{{head|st|adjective}}
+
+# [[bad]]
+
+----
+
+==Spanish==
+
+===Pronunciation===
+{{es-IPA}}
+* {{audio|es|Letter b es es.flac|Audio}}
+* {{homophones|es|ve}}
+* {{rhymes|es|e|s=1}}
+
+===Etymology 1===
+
+====Noun====
+{{es-noun|f}}
+
+# {{Latn-def|es|name|B|b}}
+#: {{syn|es|be larga|be alta|be grande|be de burro}}
+#: {{cot|es|uve|ve corta|ve baja|ve chica|ve de vaca}}
+
+===Etymology 2===
+Echoic.
+
+====Noun====
+{{es-noun|m}}
+
+# [[baa]] {{gloss|bleating of a sheep}}
+
+===Further reading===
+* {{R:DRAE}}
+
+----
+
+==Sumerian==
+
+===Romanization===
+{{sux-rom}}
+
+# {{romanization of|sux|𒁁|tr=be}}
+
+----
+
+==Swedish==
+
+===Alternative forms===
+* {{alter|sv|bedja||dated}}
+
+===Etymology===
+From older {{m|sv|bedja}}, from {{inh|sv|gmq-osw|biþia}}, from {{inh|sv|non|biðja}}, from {{inh|sv|gem-pro|*bidjaną}}, from {{der|sv|ine-pro|*gʷʰedʰ-}}. Cognate with {{cog|da|bede}}, {{cog|is|biðja}}, {{cog|en|bid}}, {{cog|nl|bidden}}, {{cog|de|bitten}}.
+
+===Pronunciation===
+* {{audio|sv|Sv-be.ogg|audio}}
+* {{homophones|sv|B}}
+* {{rhymes|sv|eː|s=1}}
+
+===Verb===
+{{sv-verb-irr|ber|bad|bett|be}}
+
+# to [[ask]] for, request someone else to do something
+# to [[pray]]
+# to [[beg]], to plead with someone for help or for a favor
+
+====Conjugation====
+{{sv-conj-st|class=5|be|bad||sup=bett|pp=bedd|end=vw}}
+{{sv-conj-st|class=5|head=bedja|bed|bad|sup=bett|pp=bedd|end=dj|note=dated}}
+
+====Related terms====
+* {{l|sv|bedjare}}
+* {{l|sv|bön}}
+* {{l|sv|ombe}}
+* {{l|sv|tillbe}}
+
+===Further reading===
+* {{R:SO}}
+
+----
+
+==Tarao==
+
+===Alternative forms===
+* [[beh]]
+
+===Noun===
+{{head|tro|noun}}
+
+# [[bean]], [[beans]]
+
+===References===
+* '''2002''', Chungkham Yashwanta Singh, ''Tarao Grammar''
+
+----
+
+==Turkish==
+
+===Etymology 1===
+
+====Pronunciation====
+* {{IPA|tr|/be/}}
+
+====Noun====
+{{head|tr|noun}}
+
+# {{Latn-def|tr|name|B|b}}
+
+====See also====
+* {{list:Latin script letter names/tr}}
+
+===Etymology 2===
+From {{der|tr|ar|بَاء}}.
+
+====Noun====
+{{head|tr|noun}}
+
+# Letter of the Arabic alphabet: {{lang|mul|sc=Arab|ب}}
+
+===Etymology 3===
+From {{inh|tr|ota|به|tr=be}}.
+
+====Interjection====
+{{head|tr|interjection}}
+
+# {{lb|tr|very||informal}} [[hey]] there, [[hey]]! [[you]]! {{gloss|implying disapproval of the addressee’s actions}}
+# {{non-gloss definition|strengthening of the preceding sentence}}
+#: {{uxi|tr|Bu yük çok ağır '''be'''!|'''My''', this load is very heavy}}
+
+====References====
+* {{R:ota:Kelekian|به|page=297}}
+
+[[Category:tr:Arabic letter names]]
+
+----
+
+==Tzotzil==
+
+===Pronunciation===
+* {{qualifier|Zinacantán}} {{IPA|tzo|/ɓɛ/}}
+
+===Noun===
+{{head|tzo|noun}}
+
+# [[road]], [[path]], {{l|en|way}}
+
+===References===
+* {{R:Laughlin1975}}
+* {{R:Laughlin1988}}
+
+----
+
+==Vietnamese==
+
+===Pronunciation===
+{{vi-pron}}
+
+===Etymology 1===
+{{rfe|vi}}
+
+====Noun====
+{{vi-noun}}
+
+# [[wine]] [[flask]]
+#: {{ux|vi|Rượu ngon chẳng quản '''be''' sành.|Good wine does not mind a terracotta flask.}}
+
+===Etymology 2===
+Borrowed from {{bor|vi|fr|beige}}.
+
+====Adjective====
+{{vi-adj}}
+
+# [[beige]]
+#: ''chiếc áo mưa màu '''be''''' — a beige raincoat
+
+===Etymology 3===
+{{rfe|vi}}
+
+====Verb====
+{{vi-verb}}
+
+# To build a mud [[embankment]] with one's hands.
+# To [[prop]] up the lip of a [[sack]] while [[top off|topping off]] the sack, to ensure a more generous quantity.
+#: ''lấy tay '''be''' miệng đấu khi đong đỗ'' — to surround the top of a measure with one's hands while measuring beans
+#: ''Đong bình thường, không được be đâu đấy.'' — Measure it out normally; don't prop up the lip of the sack.
+
+===Etymology 4===
+{{rfe|vi}}
+
+====Verb====
+{{vi-verb}}
+
+# To [[hug]] a boundary or riverbank.
+#: {{ux|vi|Thuyền '''be''' theo bờ sông.|The boat hugged the riverbank.}}
+
+===Etymology 5===
+[[onomatopoeic|Onomatopoeic]]
+
+====Interjection====
+{{vi-int|[[𠻻]], [[𠾦]]}}
+
+# {{lb|vi|onomatopoeia}} [[bleat]]; [[baa]]
+
+=====Related terms=====
+* {{l|vi|dê||[[goat]]}}
+* {{l|vi|cừu||[[sheep]]}}
+
+===References===
+{{R:FVDP}}
+
+{{topics|vi|Animal sounds|Colors|Containers|Goats|Sheep}}
+
+----
+
+==West Makian==
+
+===Pronunciation===
+* {{IPA|mqs|/be/}}
+
+===Noun===
+{{head|mqs|noun}}
+
+# [[water]]
+
+===References===
+* {{R:mqs:Voorhoeve:1982}}
+
+----
+==Yola==
+
+===Etymology 1===
+
+====Verb====
+{{head|yol|verb}}
+
+# {{alt form|yol|ba||to be}} 
+#* {{quote-book|yol|year=1867|chapter=A YOLA ZONG|number=2|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage=C'hull '''be''' zeid.|translation=It shall '''be''' told.}}
+
+===Etymology 2===
+
+====Preposition====
+{{head|yol|preposition}}
+
+# {{alt form|yol|bee||by}} 
+#* {{quote-book|yol|year=1867|chapter=A YOLA ZONG|number=13|title=SONGS, ETC. IN THE DIALECT OF FORTH AND BARGY|passage='''Be''' mee coshes.|translation='''By''' my conscience.}}
+
+===References===
+* {{R:Poole 1867|page=84 & 90}}
+
+----
+
+==Zia==
+
+===Noun===
+{{head|zia|noun}}
+
+# [[mouth]]
+
+----
+
+==Zou==
+
+===Pronunciation===
+* {{IPA|zom|/be˧˩/}}
+
+===Noun===
+{{head|zom|noun|head=bè}}
+
+# [[bean]]
+
+===References===
+* {{R:zom:Singh:2013|page=40}}
+
+{{C|zom|Legumes}}
+
+----
+
+==Zulu==
+
+===Etymology===
+From {{m|zu|ba|-ba|t=to be}}.
+
+===Pronunciation===
+{{zu-IPA|be}}
+
+===Verb===
+{{zu-verb|be}}
+
+# {{lb|zu|auxiliary}} {{non-gloss definition|forms continuous tenses}} {{+obj|zu|participial}}
+#: ''Ngesonto elilandelayo '''ngizobe''' ngisebenza kakhulu.''
+#:: Next week I will '''be''' working a lot.
+
+====Inflection====
+{{rfinfl|zu}}
+
+====Usage notes====
+In past tenses, this auxiliary is usually contracted.
+
+''Ngibe ngihamba'' → ''Bengihamba'' "I was walking." (recent past)
+
+''Ngabe ngihamba'' → ''Ngangihamba'' "I was walking." (remote past)
+
+===References===
+{{R:zu:ZED|-ɓe}}

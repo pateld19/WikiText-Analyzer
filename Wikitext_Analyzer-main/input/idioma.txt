@@ -1,0 +1,92 @@
+== {{lengua|es}} ==
+{{pron-graf|fone=iˈðjo.ma}}
+
+=== Etimología ===
+{{etimología|osp|idioma}}, y este {{etim|etim-alt=del latín medieval|la|idioma|alt=idioma, ydioma}}, usado en los clásicos con el sentido de “{{l|es|idiolecto}}”, {{etim|etim-alt=del griego koiné|grc|ἰδίωμα|transcripción=idíōma|significado=peculiaridad}}, {{etim|etim-alt=del clásico|grc|ἰδίομαι|transcripción=idíomai|glosa=apropiarse}}, de {{l+|grc|ἴδιος|tr=ídios|glosa=propio}}, probablemente derivado por sufijación de {{l+|grc|ἕ|tr=hé|glosa=él}}, del preclásico {{l+|grc|ϝhε}}, {{etim|ine|*swe-}}
+
+=== {{sustantivo masculino|es}} ===
+{{inflect.es.sust.reg}}
+
+;1 {{lingüística}}: {{plm|sistema}} para la [[comunicación]] de [[concepto]]s que utiliza sonidos [[hablar|hablados]] o representados con un sistema de [[símbolo]]s. Usualmente está estructurado con [[gramática]] y un sistema de [[escritura]] como un [[alfabeto]] o [[silabario]].
+{{sinónimos|lengua|lenguaje}}.
+{{relacionado|idiomático}}.
+
+;2: {{plm|variedad}} de un idioma<sub>1</sub> característica de un [[contexto]] [[social]] [[determinado]].
+{{sinónimo|registro}}.
+
+=== Locuciones ===
+*[[hablar el mismo idioma]]: seguir los lineamientos de una institución.
+
+=== Véase también ===
+{{Wikipedia}}
+{{Wikiquote}}
+
+{{clear}}
+
+=== Traducciones ===
+{{trad-arriba}}
+{{t+|af|1|taal}}
+{{t+|ay|1|aru}}
+{{t+|de|1|Sprache|f}}
+{{t+|an|1|luenga}}
+{{t+|ast|1|llingua}}
+{{t+|az|1|dil}}
+{{t+|bem|1|ululimi}}
+{{t+|br|1|yezh|f}}
+{{t+|ca|1|llengua|f}}
+{{t+|ce|1|мотт}}
+{{t+|cs|1|řeč|f}}
+{{t+|si|1|භාෂාව}}
+{{t+|co|1|lingua}}
+{{t+|ht|1|lang}}
+{{t+|da|1|sprog|n}}
+{{t+|sl|1|jezik|m}}
+{{t+|eo|1|lingvo}}
+{{t+|et|1|keel}}
+{{t+|fo|1|mál}}
+{{t+|fi|1|kieli|,|suu}}
+{{t+|fr|1|langue|f}}
+{{t+|fy|1|tonge|,|taal|,|sprake}}
+{{t+|gl|1|lingua}}
+{{t+|el|1|γλώσσα}}
+{{t+|gn|1|ñe'ẽ}}
+{{t+|gu|1|ભાષા}}
+{{t+|haw|1|ʻōlelo}}
+{{t+|hi|1|भाषा}}
+{{t+|hu|1|nyelv}}
+{{t+|io|1|languo}}
+{{trad-centro}}
+{{t+|id|1|bahasa}}
+{{t+|en|1|language}}
+{{t+|is|1|tunga|f}}
+{{t+|it|1|lingua|f|,|linguaggio|m}}
+{{t+|ixc|1|xwja}}
+{{t+|ja|1|言語}}
+{{t+|ku|1|ziman}}
+{{t+|ms|1|bahasa}}
+* {{zh}} : ''Tradicional:'' {{trad|zh|語言}}; ''Simplificado:'' {{trad|zh|语言}}
+{{t+|mi|1|reo}}
+{{t+|arn|1|dungun}}
+{{t+|nhn|1|tlahtolli}}
+{{t+|nv|1|zaad}}
+{{t+|nl|1|taal|f}}
+{{t+|no|1|språk}}
+{{t+|oc|1|lenga}}
+{{t+|pl|1|język|m}}
+{{t+|pt|1|língua|f|,|idioma|,|linguagem}}
+{{t+|quz|1|simi}}
+{{t+|rap|1|vananga|,|'arero}}
+{{t+|ru|1|язык}}
+{{t+|so|1|af}}
+{{t+|ss|1|lú-lwîmi}}
+{{t+|tl|1|wíka|,|lenggwáhe|,|wikà}}
+{{t+|ty|1|reo}}
+{{t+|tt|1|tel}}
+{{t+|tpi|1|tok|,|tokples}}
+{{t+|tr|1|dil}}
+{{t+|vo|1|pük}}
+{{t+|vep|1|kelʼ}}
+{{trad-abajo}}
+
+== Referencias y notas ==
+<references />
